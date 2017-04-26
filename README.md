@@ -12,10 +12,9 @@ APIs introduced in the training are:
 
 ## Code examples
 
-Material contains one/two/three simple Javascript based web application examples and one Android app example. Both application examples (stubs) utilize at least one of the mentioned APIs.  Code for the Android app example are in own folders in this repository. Web app examples are in openly shared and editable jsfiddle service (links provided). 
+Material contains one/two/three simple Javascript based web application examples and one Android app example. Both application examples (stubs) utilize at least one of the mentioned APIs.  
 
-Applications utilize APIs via API management (apinf.io). In the example API key is used, but requirement for it can be turned off from API management (by the API owners). 
+Code for the Android app example are in own folders in this repository. 
 
-## Web app examples
+Web app examples are in openly shared and editable jsfiddle service (links provided). 
 
-* Feedback API example: Sample gets services list from the API and lists them in pretty print. https://jsfiddle.net/kyyberi/fdy31mvf/12/

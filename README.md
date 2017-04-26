@@ -18,5 +18,4 @@ Applications utilize APIs via API management (apinf.io). In the example API key 
 
 ## Web app examples
 
-Feedback API example: https://jsfiddle.net/kyyberi/fdy31mvf/12/
-Sample gets services list from the API and lists them in pretty print. 
+* Feedback API example: Sample gets services list from the API and lists them in pretty print. https://jsfiddle.net/kyyberi/fdy31mvf/12/

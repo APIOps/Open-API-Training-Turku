@@ -14,4 +14,4 @@ APIs introduced in the training are:
 
 Material contains one simple Javascript based web application example and one Android app example. Both application examples (stubs) utilize at least one of the mentioned APIs.  Code for each example are in own folders in this repository. 
 
-Applications utilize APIs via API management (apinf.io). In the example API key is used, but requirement for it can be turned of from API management (by the API owners). 
+Applications utilize APIs via API management (apinf.io). In the example API key is used, but requirement for it can be turned off from API management (by the API owners). 

@@ -1,0 +1,7 @@
+#Wed May 10 10:51:59 EEST 2017
+base.0=C\:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d68717e9b4d4915d25f2d6b0ed479e3f50f51233
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9fde7efd0dfb35ba1b88705d767f65daa01c841b\\classes.dex
+base.1=C\:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9fde7efd0dfb35ba1b88705d767f65daa01c841b
+file.0=C\:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d68717e9b4d4915d25f2d6b0ed479e3f50f51233\\classes.dex

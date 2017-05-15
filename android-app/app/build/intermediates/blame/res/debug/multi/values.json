@@ -2911,8 +2911,8 @@
                     "startLine": 411,
                     "startColumn": 4,
                     "startOffset": 39669,
-                    "endColumn": 137,
-                    "endOffset": 39802
+                    "endColumn": 110,
+                    "endOffset": 39775
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\src\\debug\\res\\values\\google_maps_api.xml",
@@ -2920,8 +2920,8 @@
                         "startLine": 22,
                         "startColumn": 4,
                         "startOffset": 917,
-                        "endColumn": 137,
-                        "endOffset": 1050
+                        "endColumn": 110,
+                        "endOffset": 1023
                     }
                 }
             },
@@ -2929,9 +2929,9 @@
                 "to": {
                     "startLine": 412,
                     "startColumn": 4,
-                    "startOffset": 39807,
+                    "startOffset": 39780,
                     "endColumn": 52,
-                    "endOffset": 39855
+                    "endOffset": 39828
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -2941,9 +2941,9 @@
                 "to": {
                     "startLine": 413,
                     "startColumn": 4,
-                    "startOffset": 39860,
+                    "startOffset": 39833,
                     "endColumn": 70,
-                    "endOffset": 39926
+                    "endOffset": 39899
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -2953,9 +2953,9 @@
                 "to": {
                     "startLine": 414,
                     "startColumn": 4,
-                    "startOffset": 39931,
-                    "endColumn": 51,
-                    "endOffset": 39978
+                    "startOffset": 39904,
+                    "endColumn": 53,
+                    "endOffset": 39953
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\src\\main\\res\\values\\strings.xml"
@@ -2965,9 +2965,9 @@
                 "to": {
                     "startLine": 415,
                     "startColumn": 4,
-                    "startOffset": 39983,
+                    "startOffset": 39958,
                     "endColumn": 77,
-                    "endOffset": 40056
+                    "endOffset": 40031
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -2977,9 +2977,9 @@
                 "to": {
                     "startLine": 416,
                     "startColumn": 4,
-                    "startOffset": 40061,
+                    "startOffset": 40036,
                     "endColumn": 89,
-                    "endOffset": 40146
+                    "endOffset": 40121
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -2989,9 +2989,9 @@
                 "to": {
                     "startLine": 417,
                     "startColumn": 4,
-                    "startOffset": 40151,
+                    "startOffset": 40126,
                     "endColumn": 87,
-                    "endOffset": 40234
+                    "endOffset": 40209
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3001,9 +3001,9 @@
                 "to": {
                     "startLine": 418,
                     "startColumn": 4,
-                    "startOffset": 40239,
+                    "startOffset": 40214,
                     "endColumn": 95,
-                    "endOffset": 40330
+                    "endOffset": 40305
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3013,10 +3013,10 @@
                 "to": {
                     "startLine": 419,
                     "startColumn": 4,
-                    "startOffset": 40335,
+                    "startOffset": 40310,
                     "endLine": 424,
                     "endColumn": 12,
-                    "endOffset": 40614
+                    "endOffset": 40589
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\src\\main\\res\\values\\styles.xml"
@@ -3026,10 +3026,10 @@
                 "to": {
                     "startLine": 425,
                     "startColumn": 4,
-                    "startOffset": 40619,
+                    "startOffset": 40594,
                     "endLine": 431,
                     "endColumn": 12,
-                    "endOffset": 41115
+                    "endOffset": 41090
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3039,9 +3039,9 @@
                 "to": {
                     "startLine": 432,
                     "startColumn": 4,
-                    "startOffset": 41120,
+                    "startOffset": 41095,
                     "endColumn": 88,
-                    "endOffset": 41204
+                    "endOffset": 41179
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3051,10 +3051,10 @@
                 "to": {
                     "startLine": 433,
                     "startColumn": 4,
-                    "startOffset": 41209,
+                    "startOffset": 41184,
                     "endLine": 436,
                     "endColumn": 12,
-                    "endOffset": 41451
+                    "endOffset": 41426
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3064,10 +3064,10 @@
                 "to": {
                     "startLine": 437,
                     "startColumn": 4,
-                    "startOffset": 41456,
+                    "startOffset": 41431,
                     "endLine": 440,
                     "endColumn": 12,
-                    "endOffset": 41732
+                    "endOffset": 41707
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3077,10 +3077,10 @@
                 "to": {
                     "startLine": 441,
                     "startColumn": 4,
-                    "startOffset": 41737,
+                    "startOffset": 41712,
                     "endLine": 445,
                     "endColumn": 12,
-                    "endOffset": 42017
+                    "endOffset": 41992
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3090,10 +3090,10 @@
                 "to": {
                     "startLine": 446,
                     "startColumn": 4,
-                    "startOffset": 42022,
+                    "startOffset": 41997,
                     "endLine": 451,
                     "endColumn": 12,
-                    "endOffset": 42410
+                    "endOffset": 42385
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3103,10 +3103,10 @@
                 "to": {
                     "startLine": 452,
                     "startColumn": 4,
-                    "startOffset": 42415,
+                    "startOffset": 42390,
                     "endLine": 458,
                     "endColumn": 12,
-                    "endOffset": 42887
+                    "endOffset": 42862
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3116,10 +3116,10 @@
                 "to": {
                     "startLine": 459,
                     "startColumn": 4,
-                    "startOffset": 42892,
+                    "startOffset": 42867,
                     "endLine": 462,
                     "endColumn": 12,
-                    "endOffset": 43109
+                    "endOffset": 43084
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3129,10 +3129,10 @@
                 "to": {
                     "startLine": 463,
                     "startColumn": 4,
-                    "startOffset": 43114,
+                    "startOffset": 43089,
                     "endLine": 466,
                     "endColumn": 12,
-                    "endOffset": 43331
+                    "endOffset": 43306
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3142,10 +3142,10 @@
                 "to": {
                     "startLine": 467,
                     "startColumn": 4,
-                    "startOffset": 43336,
+                    "startOffset": 43311,
                     "endLine": 471,
                     "endColumn": 12,
-                    "endOffset": 43599
+                    "endOffset": 43574
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3155,10 +3155,10 @@
                 "to": {
                     "startLine": 472,
                     "startColumn": 4,
-                    "startOffset": 43604,
+                    "startOffset": 43579,
                     "endLine": 475,
                     "endColumn": 12,
-                    "endOffset": 43826
+                    "endOffset": 43801
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3168,10 +3168,10 @@
                 "to": {
                     "startLine": 476,
                     "startColumn": 4,
-                    "startOffset": 43831,
+                    "startOffset": 43806,
                     "endLine": 479,
                     "endColumn": 12,
-                    "endOffset": 44056
+                    "endOffset": 44031
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3181,10 +3181,10 @@
                 "to": {
                     "startLine": 480,
                     "startColumn": 4,
-                    "startOffset": 44061,
+                    "startOffset": 44036,
                     "endLine": 483,
                     "endColumn": 12,
-                    "endOffset": 44286
+                    "endOffset": 44261
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3194,10 +3194,10 @@
                 "to": {
                     "startLine": 484,
                     "startColumn": 4,
-                    "startOffset": 44291,
+                    "startOffset": 44266,
                     "endLine": 487,
                     "endColumn": 12,
-                    "endOffset": 44516
+                    "endOffset": 44491
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3207,10 +3207,10 @@
                 "to": {
                     "startLine": 488,
                     "startColumn": 4,
-                    "startOffset": 44521,
+                    "startOffset": 44496,
                     "endLine": 491,
                     "endColumn": 12,
-                    "endOffset": 44746
+                    "endOffset": 44721
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3220,10 +3220,10 @@
                 "to": {
                     "startLine": 492,
                     "startColumn": 4,
-                    "startOffset": 44751,
+                    "startOffset": 44726,
                     "endLine": 495,
                     "endColumn": 12,
-                    "endOffset": 44973
+                    "endOffset": 44948
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3233,10 +3233,10 @@
                 "to": {
                     "startLine": 496,
                     "startColumn": 4,
-                    "startOffset": 44978,
+                    "startOffset": 44953,
                     "endLine": 499,
                     "endColumn": 12,
-                    "endOffset": 45212
+                    "endOffset": 45187
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3246,10 +3246,10 @@
                 "to": {
                     "startLine": 500,
                     "startColumn": 4,
-                    "startOffset": 45217,
+                    "startOffset": 45192,
                     "endLine": 503,
                     "endColumn": 12,
-                    "endOffset": 45438
+                    "endOffset": 45413
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3259,10 +3259,10 @@
                 "to": {
                     "startLine": 504,
                     "startColumn": 4,
-                    "startOffset": 45443,
+                    "startOffset": 45418,
                     "endLine": 507,
                     "endColumn": 12,
-                    "endOffset": 45683
+                    "endOffset": 45658
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3272,10 +3272,10 @@
                 "to": {
                     "startLine": 508,
                     "startColumn": 4,
-                    "startOffset": 45688,
+                    "startOffset": 45663,
                     "endLine": 511,
                     "endColumn": 12,
-                    "endOffset": 45913
+                    "endOffset": 45888
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3285,10 +3285,10 @@
                 "to": {
                     "startLine": 512,
                     "startColumn": 4,
-                    "startOffset": 45918,
+                    "startOffset": 45893,
                     "endLine": 515,
                     "endColumn": 12,
-                    "endOffset": 46161
+                    "endOffset": 46136
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3298,10 +3298,10 @@
                 "to": {
                     "startLine": 516,
                     "startColumn": 4,
-                    "startOffset": 46166,
+                    "startOffset": 46141,
                     "endLine": 519,
                     "endColumn": 12,
-                    "endOffset": 46380
+                    "endOffset": 46355
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3311,10 +3311,10 @@
                 "to": {
                     "startLine": 520,
                     "startColumn": 4,
-                    "startOffset": 46385,
+                    "startOffset": 46360,
                     "endLine": 524,
                     "endColumn": 12,
-                    "endOffset": 46663
+                    "endOffset": 46638
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3324,10 +3324,10 @@
                 "to": {
                     "startLine": 525,
                     "startColumn": 4,
-                    "startOffset": 46668,
+                    "startOffset": 46643,
                     "endLine": 528,
                     "endColumn": 12,
-                    "endOffset": 46871
+                    "endOffset": 46846
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3337,10 +3337,10 @@
                 "to": {
                     "startLine": 529,
                     "startColumn": 4,
-                    "startOffset": 46876,
+                    "startOffset": 46851,
                     "endLine": 531,
                     "endColumn": 12,
-                    "endOffset": 47002
+                    "endOffset": 46977
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3350,10 +3350,10 @@
                 "to": {
                     "startLine": 532,
                     "startColumn": 4,
-                    "startOffset": 47007,
+                    "startOffset": 46982,
                     "endLine": 535,
                     "endColumn": 12,
-                    "endOffset": 47229
+                    "endOffset": 47204
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3363,10 +3363,10 @@
                 "to": {
                     "startLine": 536,
                     "startColumn": 4,
-                    "startOffset": 47234,
+                    "startOffset": 47209,
                     "endLine": 539,
                     "endColumn": 12,
-                    "endOffset": 47475
+                    "endOffset": 47450
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3376,10 +3376,10 @@
                 "to": {
                     "startLine": 540,
                     "startColumn": 4,
-                    "startOffset": 47480,
+                    "startOffset": 47455,
                     "endLine": 543,
                     "endColumn": 12,
-                    "endOffset": 47700
+                    "endOffset": 47675
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3389,10 +3389,10 @@
                 "to": {
                     "startLine": 544,
                     "startColumn": 4,
-                    "startOffset": 47705,
+                    "startOffset": 47680,
                     "endLine": 547,
                     "endColumn": 12,
-                    "endOffset": 47947
+                    "endOffset": 47922
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3402,10 +3402,10 @@
                 "to": {
                     "startLine": 548,
                     "startColumn": 4,
-                    "startOffset": 47952,
+                    "startOffset": 47927,
                     "endLine": 551,
                     "endColumn": 12,
-                    "endOffset": 48168
+                    "endOffset": 48143
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3415,10 +3415,10 @@
                 "to": {
                     "startLine": 552,
                     "startColumn": 4,
-                    "startOffset": 48173,
+                    "startOffset": 48148,
                     "endLine": 555,
                     "endColumn": 12,
-                    "endOffset": 48413
+                    "endOffset": 48388
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3428,10 +3428,10 @@
                 "to": {
                     "startLine": 556,
                     "startColumn": 4,
-                    "startOffset": 48418,
+                    "startOffset": 48393,
                     "endLine": 559,
                     "endColumn": 12,
-                    "endOffset": 48689
+                    "endOffset": 48664
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3441,10 +3441,10 @@
                 "to": {
                     "startLine": 560,
                     "startColumn": 4,
-                    "startOffset": 48694,
+                    "startOffset": 48669,
                     "endLine": 563,
                     "endColumn": 12,
-                    "endOffset": 48990
+                    "endOffset": 48965
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3454,10 +3454,10 @@
                 "to": {
                     "startLine": 564,
                     "startColumn": 4,
-                    "startOffset": 48995,
+                    "startOffset": 48970,
                     "endLine": 567,
                     "endColumn": 12,
-                    "endOffset": 49314
+                    "endOffset": 49289
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3467,10 +3467,10 @@
                 "to": {
                     "startLine": 568,
                     "startColumn": 4,
-                    "startOffset": 49319,
+                    "startOffset": 49294,
                     "endLine": 571,
                     "endColumn": 12,
-                    "endOffset": 49605
+                    "endOffset": 49580
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3480,10 +3480,10 @@
                 "to": {
                     "startLine": 572,
                     "startColumn": 4,
-                    "startOffset": 49610,
+                    "startOffset": 49585,
                     "endLine": 575,
                     "endColumn": 12,
-                    "endOffset": 49919
+                    "endOffset": 49894
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3493,9 +3493,9 @@
                 "to": {
                     "startLine": 576,
                     "startColumn": 4,
-                    "startOffset": 49924,
+                    "startOffset": 49899,
                     "endColumn": 136,
-                    "endOffset": 50056
+                    "endOffset": 50031
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3505,9 +3505,9 @@
                 "to": {
                     "startLine": 577,
                     "startColumn": 4,
-                    "startOffset": 50061,
+                    "startOffset": 50036,
                     "endColumn": 130,
-                    "endOffset": 50187
+                    "endOffset": 50162
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3517,9 +3517,9 @@
                 "to": {
                     "startLine": 578,
                     "startColumn": 4,
-                    "startOffset": 50192,
+                    "startOffset": 50167,
                     "endColumn": 104,
-                    "endOffset": 50292
+                    "endOffset": 50267
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3529,10 +3529,10 @@
                 "to": {
                     "startLine": 579,
                     "startColumn": 4,
-                    "startOffset": 50297,
+                    "startOffset": 50272,
                     "endLine": 581,
                     "endColumn": 12,
-                    "endOffset": 50534
+                    "endOffset": 50509
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3542,10 +3542,10 @@
                 "to": {
                     "startLine": 582,
                     "startColumn": 4,
-                    "startOffset": 50539,
+                    "startOffset": 50514,
                     "endLine": 584,
                     "endColumn": 12,
-                    "endOffset": 50701
+                    "endOffset": 50676
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3555,10 +3555,10 @@
                 "to": {
                     "startLine": 585,
                     "startColumn": 4,
-                    "startOffset": 50706,
+                    "startOffset": 50681,
                     "endLine": 587,
                     "endColumn": 12,
-                    "endOffset": 50905
+                    "endOffset": 50880
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3568,10 +3568,10 @@
                 "to": {
                     "startLine": 588,
                     "startColumn": 4,
-                    "startOffset": 50910,
+                    "startOffset": 50885,
                     "endLine": 590,
                     "endColumn": 12,
-                    "endOffset": 51113
+                    "endOffset": 51088
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3581,10 +3581,10 @@
                 "to": {
                     "startLine": 591,
                     "startColumn": 4,
-                    "startOffset": 51118,
+                    "startOffset": 51093,
                     "endLine": 594,
                     "endColumn": 12,
-                    "endOffset": 51384
+                    "endOffset": 51359
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3594,9 +3594,9 @@
                 "to": {
                     "startLine": 595,
                     "startColumn": 4,
-                    "startOffset": 51389,
+                    "startOffset": 51364,
                     "endColumn": 111,
-                    "endOffset": 51496
+                    "endOffset": 51471
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3606,9 +3606,9 @@
                 "to": {
                     "startLine": 596,
                     "startColumn": 4,
-                    "startOffset": 51501,
+                    "startOffset": 51476,
                     "endColumn": 111,
-                    "endOffset": 51608
+                    "endOffset": 51583
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3618,9 +3618,9 @@
                 "to": {
                     "startLine": 597,
                     "startColumn": 4,
-                    "startOffset": 51613,
+                    "startOffset": 51588,
                     "endColumn": 104,
-                    "endOffset": 51713
+                    "endOffset": 51688
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3630,9 +3630,9 @@
                 "to": {
                     "startLine": 598,
                     "startColumn": 4,
-                    "startOffset": 51718,
+                    "startOffset": 51693,
                     "endColumn": 116,
-                    "endOffset": 51830
+                    "endOffset": 51805
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3642,10 +3642,10 @@
                 "to": {
                     "startLine": 599,
                     "startColumn": 4,
-                    "startOffset": 51835,
+                    "startOffset": 51810,
                     "endLine": 601,
                     "endColumn": 12,
-                    "endOffset": 52044
+                    "endOffset": 52019
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3655,10 +3655,10 @@
                 "to": {
                     "startLine": 602,
                     "startColumn": 4,
-                    "startOffset": 52049,
+                    "startOffset": 52024,
                     "endLine": 603,
                     "endColumn": 12,
-                    "endOffset": 52190
+                    "endOffset": 52165
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3668,10 +3668,10 @@
                 "to": {
                     "startLine": 604,
                     "startColumn": 4,
-                    "startOffset": 52195,
+                    "startOffset": 52170,
                     "endLine": 605,
                     "endColumn": 12,
-                    "endOffset": 52330
+                    "endOffset": 52305
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3681,10 +3681,10 @@
                 "to": {
                     "startLine": 606,
                     "startColumn": 4,
-                    "startOffset": 52335,
+                    "startOffset": 52310,
                     "endLine": 607,
                     "endColumn": 12,
-                    "endOffset": 52416
+                    "endOffset": 52391
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3694,10 +3694,10 @@
                 "to": {
                     "startLine": 608,
                     "startColumn": 4,
-                    "startOffset": 52421,
+                    "startOffset": 52396,
                     "endLine": 612,
                     "endColumn": 12,
-                    "endOffset": 52764
+                    "endOffset": 52739
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3707,9 +3707,9 @@
                 "to": {
                     "startLine": 613,
                     "startColumn": 4,
-                    "startOffset": 52769,
+                    "startOffset": 52744,
                     "endColumn": 87,
-                    "endOffset": 52852
+                    "endOffset": 52827
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3719,10 +3719,10 @@
                 "to": {
                     "startLine": 614,
                     "startColumn": 4,
-                    "startOffset": 52857,
+                    "startOffset": 52832,
                     "endLine": 617,
                     "endColumn": 12,
-                    "endOffset": 53082
+                    "endOffset": 53057
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3732,10 +3732,10 @@
                 "to": {
                     "startLine": 618,
                     "startColumn": 4,
-                    "startOffset": 53087,
+                    "startOffset": 53062,
                     "endLine": 623,
                     "endColumn": 12,
-                    "endOffset": 53500
+                    "endOffset": 53475
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3745,10 +3745,10 @@
                 "to": {
                     "startLine": 624,
                     "startColumn": 4,
-                    "startOffset": 53505,
+                    "startOffset": 53480,
                     "endLine": 627,
                     "endColumn": 12,
-                    "endOffset": 53733
+                    "endOffset": 53708
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3758,9 +3758,9 @@
                 "to": {
                     "startLine": 628,
                     "startColumn": 4,
-                    "startOffset": 53738,
+                    "startOffset": 53713,
                     "endColumn": 81,
-                    "endOffset": 53815
+                    "endOffset": 53790
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3770,10 +3770,10 @@
                 "to": {
                     "startLine": 629,
                     "startColumn": 4,
-                    "startOffset": 53820,
+                    "startOffset": 53795,
                     "endLine": 630,
                     "endColumn": 12,
-                    "endOffset": 53913
+                    "endOffset": 53888
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3783,10 +3783,10 @@
                 "to": {
                     "startLine": 631,
                     "startColumn": 4,
-                    "startOffset": 53918,
+                    "startOffset": 53893,
                     "endLine": 641,
                     "endColumn": 12,
-                    "endOffset": 54505
+                    "endOffset": 54480
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3796,9 +3796,9 @@
                 "to": {
                     "startLine": 642,
                     "startColumn": 4,
-                    "startOffset": 54510,
+                    "startOffset": 54485,
                     "endColumn": 99,
-                    "endOffset": 54605
+                    "endOffset": 54580
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3808,10 +3808,10 @@
                 "to": {
                     "startLine": 643,
                     "startColumn": 4,
-                    "startOffset": 54610,
+                    "startOffset": 54585,
                     "endLine": 646,
                     "endColumn": 12,
-                    "endOffset": 54841
+                    "endOffset": 54816
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3821,10 +3821,10 @@
                 "to": {
                     "startLine": 647,
                     "startColumn": 4,
-                    "startOffset": 54846,
+                    "startOffset": 54821,
                     "endLine": 652,
                     "endColumn": 12,
-                    "endOffset": 55265
+                    "endOffset": 55240
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3834,10 +3834,10 @@
                 "to": {
                     "startLine": 653,
                     "startColumn": 4,
-                    "startOffset": 55270,
+                    "startOffset": 55245,
                     "endLine": 656,
                     "endColumn": 12,
-                    "endOffset": 55504
+                    "endOffset": 55479
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3847,9 +3847,9 @@
                 "to": {
                     "startLine": 657,
                     "startColumn": 4,
-                    "startOffset": 55509,
+                    "startOffset": 55484,
                     "endColumn": 93,
-                    "endOffset": 55598
+                    "endOffset": 55573
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3859,9 +3859,9 @@
                 "to": {
                     "startLine": 658,
                     "startColumn": 4,
-                    "startOffset": 55603,
+                    "startOffset": 55578,
                     "endColumn": 88,
-                    "endOffset": 55687
+                    "endOffset": 55662
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3871,10 +3871,10 @@
                 "to": {
                     "startLine": 659,
                     "startColumn": 4,
-                    "startOffset": 55692,
+                    "startOffset": 55667,
                     "endLine": 662,
                     "endColumn": 12,
-                    "endOffset": 55924
+                    "endOffset": 55899
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3884,10 +3884,10 @@
                 "to": {
                     "startLine": 663,
                     "startColumn": 4,
-                    "startOffset": 55929,
+                    "startOffset": 55904,
                     "endLine": 689,
                     "endColumn": 12,
-                    "endOffset": 57948
+                    "endOffset": 57923
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3897,10 +3897,10 @@
                 "to": {
                     "startLine": 690,
                     "startColumn": 4,
-                    "startOffset": 57953,
+                    "startOffset": 57928,
                     "endLine": 693,
                     "endColumn": 12,
-                    "endOffset": 58190
+                    "endOffset": 58165
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3910,9 +3910,9 @@
                 "to": {
                     "startLine": 694,
                     "startColumn": 4,
-                    "startOffset": 58195,
+                    "startOffset": 58170,
                     "endColumn": 101,
-                    "endOffset": 58292
+                    "endOffset": 58267
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3922,10 +3922,10 @@
                 "to": {
                     "startLine": 695,
                     "startColumn": 4,
-                    "startOffset": 58297,
+                    "startOffset": 58272,
                     "endLine": 698,
                     "endColumn": 12,
-                    "endOffset": 58529
+                    "endOffset": 58504
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3935,10 +3935,10 @@
                 "to": {
                     "startLine": 699,
                     "startColumn": 4,
-                    "startOffset": 58534,
+                    "startOffset": 58509,
                     "endLine": 726,
                     "endColumn": 12,
-                    "endOffset": 60685
+                    "endOffset": 60660
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3948,10 +3948,10 @@
                 "to": {
                     "startLine": 727,
                     "startColumn": 4,
-                    "startOffset": 60690,
+                    "startOffset": 60665,
                     "endLine": 884,
                     "endColumn": 12,
-                    "endOffset": 70289
+                    "endOffset": 70264
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3961,10 +3961,10 @@
                 "to": {
                     "startLine": 885,
                     "startColumn": 4,
-                    "startOffset": 70294,
+                    "startOffset": 70269,
                     "endLine": 906,
                     "endColumn": 12,
-                    "endOffset": 71540
+                    "endOffset": 71515
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3974,10 +3974,10 @@
                 "to": {
                     "startLine": 907,
                     "startColumn": 4,
-                    "startOffset": 71545,
+                    "startOffset": 71520,
                     "endLine": 1064,
                     "endColumn": 12,
-                    "endOffset": 81243
+                    "endOffset": 81218
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -3987,10 +3987,10 @@
                 "to": {
                     "startLine": 1065,
                     "startColumn": 4,
-                    "startOffset": 81248,
+                    "startOffset": 81223,
                     "endLine": 1086,
                     "endColumn": 12,
-                    "endOffset": 82506
+                    "endOffset": 82481
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4000,10 +4000,10 @@
                 "to": {
                     "startLine": 1087,
                     "startColumn": 4,
-                    "startOffset": 82511,
+                    "startOffset": 82486,
                     "endLine": 1113,
                     "endColumn": 12,
-                    "endOffset": 83998
+                    "endOffset": 83973
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4013,10 +4013,10 @@
                 "to": {
                     "startLine": 1114,
                     "startColumn": 4,
-                    "startOffset": 84003,
+                    "startOffset": 83978,
                     "endLine": 1120,
                     "endColumn": 12,
-                    "endOffset": 84534
+                    "endOffset": 84509
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4026,10 +4026,10 @@
                 "to": {
                     "startLine": 1121,
                     "startColumn": 4,
-                    "startOffset": 84539,
+                    "startOffset": 84514,
                     "endLine": 1125,
                     "endColumn": 12,
-                    "endOffset": 84864
+                    "endOffset": 84839
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4039,10 +4039,10 @@
                 "to": {
                     "startLine": 1126,
                     "startColumn": 4,
-                    "startOffset": 84869,
+                    "startOffset": 84844,
                     "endLine": 1147,
                     "endColumn": 12,
-                    "endOffset": 86129
+                    "endOffset": 86104
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4052,10 +4052,10 @@
                 "to": {
                     "startLine": 1148,
                     "startColumn": 4,
-                    "startOffset": 86134,
+                    "startOffset": 86109,
                     "endLine": 1152,
                     "endColumn": 12,
-                    "endOffset": 86385
+                    "endOffset": 86360
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4065,10 +4065,10 @@
                 "to": {
                     "startLine": 1153,
                     "startColumn": 4,
-                    "startOffset": 86390,
+                    "startOffset": 86365,
                     "endLine": 1157,
                     "endColumn": 12,
-                    "endOffset": 86621
+                    "endOffset": 86596
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4078,10 +4078,10 @@
                 "to": {
                     "startLine": 1158,
                     "startColumn": 4,
-                    "startOffset": 86626,
+                    "startOffset": 86601,
                     "endLine": 1167,
                     "endColumn": 12,
-                    "endOffset": 87168
+                    "endOffset": 87143
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4091,10 +4091,10 @@
                 "to": {
                     "startLine": 1168,
                     "startColumn": 4,
-                    "startOffset": 87173,
+                    "startOffset": 87148,
                     "endLine": 1176,
                     "endColumn": 12,
-                    "endOffset": 87662
+                    "endOffset": 87637
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4104,10 +4104,10 @@
                 "to": {
                     "startLine": 1177,
                     "startColumn": 4,
-                    "startOffset": 87667,
+                    "startOffset": 87642,
                     "endLine": 1185,
                     "endColumn": 12,
-                    "endOffset": 88267
+                    "endOffset": 88242
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4117,10 +4117,10 @@
                 "to": {
                     "startLine": 1186,
                     "startColumn": 4,
-                    "startOffset": 88272,
+                    "startOffset": 88247,
                     "endLine": 1189,
                     "endColumn": 12,
-                    "endOffset": 88465
+                    "endOffset": 88440
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4130,10 +4130,10 @@
                 "to": {
                     "startLine": 1190,
                     "startColumn": 4,
-                    "startOffset": 88470,
+                    "startOffset": 88445,
                     "endLine": 1196,
                     "endColumn": 12,
-                    "endOffset": 89045
+                    "endOffset": 89020
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4143,10 +4143,10 @@
                 "to": {
                     "startLine": 1197,
                     "startColumn": 4,
-                    "startOffset": 89050,
+                    "startOffset": 89025,
                     "endLine": 1204,
                     "endColumn": 12,
-                    "endOffset": 89609
+                    "endOffset": 89584
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4156,10 +4156,10 @@
                 "to": {
                     "startLine": 1205,
                     "startColumn": 4,
-                    "startOffset": 89614,
+                    "startOffset": 89589,
                     "endLine": 1211,
                     "endColumn": 12,
-                    "endOffset": 89984
+                    "endOffset": 89959
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4169,9 +4169,9 @@
                 "to": {
                     "startLine": 1212,
                     "startColumn": 4,
-                    "startOffset": 89989,
+                    "startOffset": 89964,
                     "endColumn": 117,
-                    "endOffset": 90102
+                    "endOffset": 90077
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4181,10 +4181,10 @@
                 "to": {
                     "startLine": 1213,
                     "startColumn": 4,
-                    "startOffset": 90107,
+                    "startOffset": 90082,
                     "endLine": 1221,
                     "endColumn": 12,
-                    "endOffset": 90640
+                    "endOffset": 90615
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4194,10 +4194,10 @@
                 "to": {
                     "startLine": 1222,
                     "startColumn": 4,
-                    "startOffset": 90645,
+                    "startOffset": 90620,
                     "endLine": 1224,
                     "endColumn": 12,
-                    "endOffset": 90797
+                    "endOffset": 90772
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4207,10 +4207,10 @@
                 "to": {
                     "startLine": 1225,
                     "startColumn": 4,
-                    "startOffset": 90802,
+                    "startOffset": 90777,
                     "endLine": 1227,
                     "endColumn": 12,
-                    "endOffset": 90993
+                    "endOffset": 90968
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4220,10 +4220,10 @@
                 "to": {
                     "startLine": 1228,
                     "startColumn": 4,
-                    "startOffset": 90998,
+                    "startOffset": 90973,
                     "endLine": 1231,
                     "endColumn": 12,
-                    "endOffset": 91266
+                    "endOffset": 91241
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4233,10 +4233,10 @@
                 "to": {
                     "startLine": 1232,
                     "startColumn": 4,
-                    "startOffset": 91271,
+                    "startOffset": 91246,
                     "endLine": 1235,
                     "endColumn": 12,
-                    "endOffset": 91522
+                    "endOffset": 91497
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4246,10 +4246,10 @@
                 "to": {
                     "startLine": 1236,
                     "startColumn": 4,
-                    "startOffset": 91527,
+                    "startOffset": 91502,
                     "endLine": 1239,
                     "endColumn": 12,
-                    "endOffset": 91692
+                    "endOffset": 91667
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4259,10 +4259,10 @@
                 "to": {
                     "startLine": 1240,
                     "startColumn": 4,
-                    "startOffset": 91697,
+                    "startOffset": 91672,
                     "endLine": 1242,
                     "endColumn": 12,
-                    "endOffset": 91833
+                    "endOffset": 91808
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4272,9 +4272,9 @@
                 "to": {
                     "startLine": 1243,
                     "startColumn": 4,
-                    "startOffset": 91838,
+                    "startOffset": 91813,
                     "endColumn": 63,
-                    "endOffset": 91897
+                    "endOffset": 91872
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4284,10 +4284,10 @@
                 "to": {
                     "startLine": 1244,
                     "startColumn": 4,
-                    "startOffset": 91902,
+                    "startOffset": 91877,
                     "endLine": 1247,
                     "endColumn": 12,
-                    "endOffset": 92179
+                    "endOffset": 92154
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4297,10 +4297,10 @@
                 "to": {
                     "startLine": 1248,
                     "startColumn": 4,
-                    "startOffset": 92184,
+                    "startOffset": 92159,
                     "endLine": 1251,
                     "endColumn": 12,
-                    "endOffset": 92465
+                    "endOffset": 92440
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4310,10 +4310,10 @@
                 "to": {
                     "startLine": 1252,
                     "startColumn": 4,
-                    "startOffset": 92470,
+                    "startOffset": 92445,
                     "endLine": 1261,
                     "endColumn": 12,
-                    "endOffset": 93141
+                    "endOffset": 93116
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4323,10 +4323,10 @@
                 "to": {
                     "startLine": 1262,
                     "startColumn": 4,
-                    "startOffset": 93146,
+                    "startOffset": 93121,
                     "endLine": 1266,
                     "endColumn": 12,
-                    "endOffset": 93405
+                    "endOffset": 93380
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4336,10 +4336,10 @@
                 "to": {
                     "startLine": 1267,
                     "startColumn": 4,
-                    "startOffset": 93410,
+                    "startOffset": 93385,
                     "endLine": 1273,
                     "endColumn": 12,
-                    "endOffset": 93743
+                    "endOffset": 93718
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4349,10 +4349,10 @@
                 "to": {
                     "startLine": 1274,
                     "startColumn": 4,
-                    "startOffset": 93748,
+                    "startOffset": 93723,
                     "endLine": 1279,
                     "endColumn": 12,
-                    "endOffset": 94096
+                    "endOffset": 94071
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4362,9 +4362,9 @@
                 "to": {
                     "startLine": 1280,
                     "startColumn": 4,
-                    "startOffset": 94101,
+                    "startOffset": 94076,
                     "endColumn": 93,
-                    "endOffset": 94190
+                    "endOffset": 94165
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4374,10 +4374,10 @@
                 "to": {
                     "startLine": 1281,
                     "startColumn": 4,
-                    "startOffset": 94195,
+                    "startOffset": 94170,
                     "endLine": 1283,
                     "endColumn": 12,
-                    "endOffset": 94376
+                    "endOffset": 94351
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4387,10 +4387,10 @@
                 "to": {
                     "startLine": 1284,
                     "startColumn": 4,
-                    "startOffset": 94381,
+                    "startOffset": 94356,
                     "endLine": 1287,
                     "endColumn": 12,
-                    "endOffset": 94682
+                    "endOffset": 94657
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4400,10 +4400,10 @@
                 "to": {
                     "startLine": 1288,
                     "startColumn": 4,
-                    "startOffset": 94687,
+                    "startOffset": 94662,
                     "endLine": 1292,
                     "endColumn": 12,
-                    "endOffset": 94944
+                    "endOffset": 94919
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4413,10 +4413,10 @@
                 "to": {
                     "startLine": 1293,
                     "startColumn": 4,
-                    "startOffset": 94949,
+                    "startOffset": 94924,
                     "endLine": 1294,
                     "endColumn": 12,
-                    "endOffset": 95069
+                    "endOffset": 95044
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4426,10 +4426,10 @@
                 "to": {
                     "startLine": 1295,
                     "startColumn": 4,
-                    "startOffset": 95074,
+                    "startOffset": 95049,
                     "endLine": 1296,
                     "endColumn": 12,
-                    "endOffset": 95196
+                    "endOffset": 95171
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4439,10 +4439,10 @@
                 "to": {
                     "startLine": 1297,
                     "startColumn": 4,
-                    "startOffset": 95201,
+                    "startOffset": 95176,
                     "endLine": 1299,
                     "endColumn": 12,
-                    "endOffset": 95435
+                    "endOffset": 95410
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4452,10 +4452,10 @@
                 "to": {
                     "startLine": 1300,
                     "startColumn": 4,
-                    "startOffset": 95440,
+                    "startOffset": 95415,
                     "endLine": 1302,
                     "endColumn": 12,
-                    "endOffset": 95646
+                    "endOffset": 95621
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4465,10 +4465,10 @@
                 "to": {
                     "startLine": 1303,
                     "startColumn": 4,
-                    "startOffset": 95651,
+                    "startOffset": 95626,
                     "endLine": 1304,
                     "endColumn": 12,
-                    "endOffset": 95765
+                    "endOffset": 95740
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4478,10 +4478,10 @@
                 "to": {
                     "startLine": 1305,
                     "startColumn": 4,
-                    "startOffset": 95770,
+                    "startOffset": 95745,
                     "endLine": 1308,
                     "endColumn": 12,
-                    "endOffset": 95958
+                    "endOffset": 95933
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4491,10 +4491,10 @@
                 "to": {
                     "startLine": 1309,
                     "startColumn": 4,
-                    "startOffset": 95963,
+                    "startOffset": 95938,
                     "endLine": 1311,
                     "endColumn": 12,
-                    "endOffset": 96135
+                    "endOffset": 96110
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4504,10 +4504,10 @@
                 "to": {
                     "startLine": 1312,
                     "startColumn": 4,
-                    "startOffset": 96140,
+                    "startOffset": 96115,
                     "endLine": 1318,
                     "endColumn": 12,
-                    "endOffset": 96590
+                    "endOffset": 96565
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4517,10 +4517,10 @@
                 "to": {
                     "startLine": 1319,
                     "startColumn": 4,
-                    "startOffset": 96595,
+                    "startOffset": 96570,
                     "endLine": 1321,
                     "endColumn": 12,
-                    "endOffset": 96771
+                    "endOffset": 96746
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4530,10 +4530,10 @@
                 "to": {
                     "startLine": 1322,
                     "startColumn": 4,
-                    "startOffset": 96776,
+                    "startOffset": 96751,
                     "endLine": 1324,
                     "endColumn": 12,
-                    "endOffset": 96893
+                    "endOffset": 96868
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4543,10 +4543,10 @@
                 "to": {
                     "startLine": 1325,
                     "startColumn": 4,
-                    "startOffset": 96898,
+                    "startOffset": 96873,
                     "endLine": 1328,
                     "endColumn": 12,
-                    "endOffset": 97152
+                    "endOffset": 97127
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4556,10 +4556,10 @@
                 "to": {
                     "startLine": 1329,
                     "startColumn": 4,
-                    "startOffset": 97157,
+                    "startOffset": 97132,
                     "endLine": 1330,
                     "endColumn": 12,
-                    "endOffset": 97265
+                    "endOffset": 97240
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4569,10 +4569,10 @@
                 "to": {
                     "startLine": 1331,
                     "startColumn": 4,
-                    "startOffset": 97270,
+                    "startOffset": 97245,
                     "endLine": 1334,
                     "endColumn": 12,
-                    "endOffset": 97452
+                    "endOffset": 97427
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4582,10 +4582,10 @@
                 "to": {
                     "startLine": 1335,
                     "startColumn": 4,
-                    "startOffset": 97457,
+                    "startOffset": 97432,
                     "endLine": 1336,
                     "endColumn": 12,
-                    "endOffset": 97554
+                    "endOffset": 97529
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4595,10 +4595,10 @@
                 "to": {
                     "startLine": 1337,
                     "startColumn": 4,
-                    "startOffset": 97559,
+                    "startOffset": 97534,
                     "endLine": 1342,
                     "endColumn": 12,
-                    "endOffset": 97998
+                    "endOffset": 97973
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4608,10 +4608,10 @@
                 "to": {
                     "startLine": 1343,
                     "startColumn": 4,
-                    "startOffset": 98003,
+                    "startOffset": 97978,
                     "endLine": 1344,
                     "endColumn": 12,
-                    "endOffset": 98122
+                    "endOffset": 98097
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4621,10 +4621,10 @@
                 "to": {
                     "startLine": 1345,
                     "startColumn": 4,
-                    "startOffset": 98127,
+                    "startOffset": 98102,
                     "endLine": 1348,
                     "endColumn": 12,
-                    "endOffset": 98397
+                    "endOffset": 98372
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4634,10 +4634,10 @@
                 "to": {
                     "startLine": 1349,
                     "startColumn": 4,
-                    "startOffset": 98402,
+                    "startOffset": 98377,
                     "endLine": 1356,
                     "endColumn": 12,
-                    "endOffset": 98905
+                    "endOffset": 98880
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4647,10 +4647,10 @@
                 "to": {
                     "startLine": 1357,
                     "startColumn": 4,
-                    "startOffset": 98910,
+                    "startOffset": 98885,
                     "endLine": 1364,
                     "endColumn": 12,
-                    "endOffset": 99401
+                    "endOffset": 99376
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4660,10 +4660,10 @@
                 "to": {
                     "startLine": 1365,
                     "startColumn": 4,
-                    "startOffset": 99406,
+                    "startOffset": 99381,
                     "endLine": 1376,
                     "endColumn": 12,
-                    "endOffset": 100278
+                    "endOffset": 100253
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4673,10 +4673,10 @@
                 "to": {
                     "startLine": 1377,
                     "startColumn": 4,
-                    "startOffset": 100283,
+                    "startOffset": 100258,
                     "endLine": 1382,
                     "endColumn": 12,
-                    "endOffset": 100572
+                    "endOffset": 100547
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4686,10 +4686,10 @@
                 "to": {
                     "startLine": 1383,
                     "startColumn": 4,
-                    "startOffset": 100577,
+                    "startOffset": 100552,
                     "endLine": 1391,
                     "endColumn": 12,
-                    "endOffset": 101142
+                    "endOffset": 101117
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4699,10 +4699,10 @@
                 "to": {
                     "startLine": 1392,
                     "startColumn": 4,
-                    "startOffset": 101147,
+                    "startOffset": 101122,
                     "endLine": 1394,
                     "endColumn": 12,
-                    "endOffset": 101291
+                    "endOffset": 101266
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4712,10 +4712,10 @@
                 "to": {
                     "startLine": 1395,
                     "startColumn": 4,
-                    "startOffset": 101296,
+                    "startOffset": 101271,
                     "endLine": 1405,
                     "endColumn": 12,
-                    "endOffset": 102023
+                    "endOffset": 101998
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4725,10 +4725,10 @@
                 "to": {
                     "startLine": 1406,
                     "startColumn": 4,
-                    "startOffset": 102028,
+                    "startOffset": 102003,
                     "endLine": 1408,
                     "endColumn": 12,
-                    "endOffset": 102195
+                    "endOffset": 102170
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4738,10 +4738,10 @@
                 "to": {
                     "startLine": 1409,
                     "startColumn": 4,
-                    "startOffset": 102200,
+                    "startOffset": 102175,
                     "endLine": 1413,
                     "endColumn": 12,
-                    "endOffset": 102531
+                    "endOffset": 102506
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4751,10 +4751,10 @@
                 "to": {
                     "startLine": 1414,
                     "startColumn": 4,
-                    "startOffset": 102536,
+                    "startOffset": 102511,
                     "endLine": 1427,
                     "endColumn": 12,
-                    "endOffset": 103589
+                    "endOffset": 103564
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4764,10 +4764,10 @@
                 "to": {
                     "startLine": 1428,
                     "startColumn": 4,
-                    "startOffset": 103594,
+                    "startOffset": 103569,
                     "endLine": 1432,
                     "endColumn": 12,
-                    "endOffset": 103867
+                    "endOffset": 103842
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4777,10 +4777,10 @@
                 "to": {
                     "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 103872,
+                    "startOffset": 103847,
                     "endLine": 1474,
                     "endColumn": 12,
-                    "endOffset": 106991
+                    "endOffset": 106966
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4790,10 +4790,10 @@
                 "to": {
                     "startLine": 1475,
                     "startColumn": 4,
-                    "startOffset": 106996,
+                    "startOffset": 106971,
                     "endLine": 1517,
                     "endColumn": 12,
-                    "endOffset": 110258
+                    "endOffset": 110233
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4803,9 +4803,9 @@
                 "to": {
                     "startLine": 1518,
                     "startColumn": 4,
-                    "startOffset": 110263,
+                    "startOffset": 110238,
                     "endColumn": 61,
-                    "endOffset": 110320
+                    "endOffset": 110295
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4815,10 +4815,10 @@
                 "to": {
                     "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 110325,
+                    "startOffset": 110300,
                     "endLine": 1528,
                     "endColumn": 12,
-                    "endOffset": 110898
+                    "endOffset": 110873
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4828,10 +4828,10 @@
                 "to": {
                     "startLine": 1529,
                     "startColumn": 4,
-                    "startOffset": 110903,
+                    "startOffset": 110878,
                     "endLine": 1537,
                     "endColumn": 12,
-                    "endOffset": 111482
+                    "endOffset": 111457
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4841,9 +4841,9 @@
                 "to": {
                     "startLine": 1538,
                     "startColumn": 4,
-                    "startOffset": 111487,
+                    "startOffset": 111462,
                     "endColumn": 85,
-                    "endOffset": 111568
+                    "endOffset": 111543
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4853,10 +4853,10 @@
                 "to": {
                     "startLine": 1539,
                     "startColumn": 4,
-                    "startOffset": 111573,
+                    "startOffset": 111548,
                     "endLine": 1540,
                     "endColumn": 12,
-                    "endOffset": 111681
+                    "endOffset": 111656
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4866,10 +4866,10 @@
                 "to": {
                     "startLine": 1541,
                     "startColumn": 4,
-                    "startOffset": 111686,
+                    "startOffset": 111661,
                     "endLine": 1544,
                     "endColumn": 12,
-                    "endOffset": 111910
+                    "endOffset": 111885
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4879,10 +4879,10 @@
                 "to": {
                     "startLine": 1545,
                     "startColumn": 4,
-                    "startOffset": 111915,
+                    "startOffset": 111890,
                     "endLine": 1547,
                     "endColumn": 12,
-                    "endOffset": 112070
+                    "endOffset": 112045
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4892,10 +4892,10 @@
                 "to": {
                     "startLine": 1548,
                     "startColumn": 4,
-                    "startOffset": 112075,
+                    "startOffset": 112050,
                     "endLine": 1550,
                     "endColumn": 12,
-                    "endOffset": 112222
+                    "endOffset": 112197
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4905,10 +4905,10 @@
                 "to": {
                     "startLine": 1551,
                     "startColumn": 4,
-                    "startOffset": 112227,
+                    "startOffset": 112202,
                     "endLine": 1553,
                     "endColumn": 12,
-                    "endOffset": 112393
+                    "endOffset": 112368
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4918,10 +4918,10 @@
                 "to": {
                     "startLine": 1554,
                     "startColumn": 4,
-                    "startOffset": 112398,
+                    "startOffset": 112373,
                     "endLine": 1556,
                     "endColumn": 12,
-                    "endOffset": 112560
+                    "endOffset": 112535
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4931,10 +4931,10 @@
                 "to": {
                     "startLine": 1557,
                     "startColumn": 4,
-                    "startOffset": 112565,
+                    "startOffset": 112540,
                     "endLine": 1560,
                     "endColumn": 12,
-                    "endOffset": 112803
+                    "endOffset": 112778
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4944,10 +4944,10 @@
                 "to": {
                     "startLine": 1561,
                     "startColumn": 4,
-                    "startOffset": 112808,
+                    "startOffset": 112783,
                     "endLine": 1563,
                     "endColumn": 12,
-                    "endOffset": 112973
+                    "endOffset": 112948
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4957,10 +4957,10 @@
                 "to": {
                     "startLine": 1564,
                     "startColumn": 4,
-                    "startOffset": 112978,
+                    "startOffset": 112953,
                     "endLine": 1566,
                     "endColumn": 12,
-                    "endOffset": 113146
+                    "endOffset": 113121
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4970,10 +4970,10 @@
                 "to": {
                     "startLine": 1567,
                     "startColumn": 4,
-                    "startOffset": 113151,
+                    "startOffset": 113126,
                     "endLine": 1569,
                     "endColumn": 12,
-                    "endOffset": 113317
+                    "endOffset": 113292
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4983,10 +4983,10 @@
                 "to": {
                     "startLine": 1570,
                     "startColumn": 4,
-                    "startOffset": 113322,
+                    "startOffset": 113297,
                     "endLine": 1573,
                     "endColumn": 12,
-                    "endOffset": 113591
+                    "endOffset": 113566
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -4996,10 +4996,10 @@
                 "to": {
                     "startLine": 1574,
                     "startColumn": 4,
-                    "startOffset": 113596,
+                    "startOffset": 113571,
                     "endLine": 1576,
                     "endColumn": 12,
-                    "endOffset": 113790
+                    "endOffset": 113765
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5009,10 +5009,10 @@
                 "to": {
                     "startLine": 1577,
                     "startColumn": 4,
-                    "startOffset": 113795,
+                    "startOffset": 113770,
                     "endLine": 1580,
                     "endColumn": 12,
-                    "endOffset": 113995
+                    "endOffset": 113970
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5022,10 +5022,10 @@
                 "to": {
                     "startLine": 1581,
                     "startColumn": 4,
-                    "startOffset": 114000,
+                    "startOffset": 113975,
                     "endLine": 1584,
                     "endColumn": 12,
-                    "endOffset": 114325
+                    "endOffset": 114300
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5035,9 +5035,9 @@
                 "to": {
                     "startLine": 1585,
                     "startColumn": 4,
-                    "startOffset": 114330,
+                    "startOffset": 114305,
                     "endColumn": 83,
-                    "endOffset": 114409
+                    "endOffset": 114384
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5047,9 +5047,9 @@
                 "to": {
                     "startLine": 1586,
                     "startColumn": 4,
-                    "startOffset": 114414,
+                    "startOffset": 114389,
                     "endColumn": 95,
-                    "endOffset": 114505
+                    "endOffset": 114480
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5059,9 +5059,9 @@
                 "to": {
                     "startLine": 1587,
                     "startColumn": 4,
-                    "startOffset": 114510,
+                    "startOffset": 114485,
                     "endColumn": 95,
-                    "endOffset": 114601
+                    "endOffset": 114576
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5071,9 +5071,9 @@
                 "to": {
                     "startLine": 1588,
                     "startColumn": 4,
-                    "startOffset": 114606,
+                    "startOffset": 114581,
                     "endColumn": 97,
-                    "endOffset": 114699
+                    "endOffset": 114674
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5083,9 +5083,9 @@
                 "to": {
                     "startLine": 1589,
                     "startColumn": 4,
-                    "startOffset": 114704,
+                    "startOffset": 114679,
                     "endColumn": 99,
-                    "endOffset": 114799
+                    "endOffset": 114774
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5095,9 +5095,9 @@
                 "to": {
                     "startLine": 1590,
                     "startColumn": 4,
-                    "startOffset": 114804,
+                    "startOffset": 114779,
                     "endColumn": 101,
-                    "endOffset": 114901
+                    "endOffset": 114876
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5107,9 +5107,9 @@
                 "to": {
                     "startLine": 1591,
                     "startColumn": 4,
-                    "startOffset": 114906,
+                    "startOffset": 114881,
                     "endColumn": 101,
-                    "endOffset": 115003
+                    "endOffset": 114978
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5119,9 +5119,9 @@
                 "to": {
                     "startLine": 1592,
                     "startColumn": 4,
-                    "startOffset": 115008,
+                    "startOffset": 114983,
                     "endColumn": 101,
-                    "endOffset": 115105
+                    "endOffset": 115080
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5131,9 +5131,9 @@
                 "to": {
                     "startLine": 1593,
                     "startColumn": 4,
-                    "startOffset": 115110,
+                    "startOffset": 115085,
                     "endColumn": 101,
-                    "endOffset": 115207
+                    "endOffset": 115182
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5143,9 +5143,9 @@
                 "to": {
                     "startLine": 1594,
                     "startColumn": 4,
-                    "startOffset": 115212,
+                    "startOffset": 115187,
                     "endColumn": 101,
-                    "endOffset": 115309
+                    "endOffset": 115284
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5155,9 +5155,9 @@
                 "to": {
                     "startLine": 1595,
                     "startColumn": 4,
-                    "startOffset": 115314,
+                    "startOffset": 115289,
                     "endColumn": 99,
-                    "endOffset": 115409
+                    "endOffset": 115384
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5167,9 +5167,9 @@
                 "to": {
                     "startLine": 1596,
                     "startColumn": 4,
-                    "startOffset": 115414,
+                    "startOffset": 115389,
                     "endColumn": 95,
-                    "endOffset": 115505
+                    "endOffset": 115480
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5179,9 +5179,9 @@
                 "to": {
                     "startLine": 1597,
                     "startColumn": 4,
-                    "startOffset": 115510,
+                    "startOffset": 115485,
                     "endColumn": 111,
-                    "endOffset": 115617
+                    "endOffset": 115592
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5191,9 +5191,9 @@
                 "to": {
                     "startLine": 1598,
                     "startColumn": 4,
-                    "startOffset": 115622,
+                    "startOffset": 115597,
                     "endColumn": 128,
-                    "endOffset": 115746
+                    "endOffset": 115721
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5203,9 +5203,9 @@
                 "to": {
                     "startLine": 1599,
                     "startColumn": 4,
-                    "startOffset": 115751,
+                    "startOffset": 115726,
                     "endColumn": 122,
-                    "endOffset": 115869
+                    "endOffset": 115844
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5215,9 +5215,9 @@
                 "to": {
                     "startLine": 1600,
                     "startColumn": 4,
-                    "startOffset": 115874,
+                    "startOffset": 115849,
                     "endColumn": 130,
-                    "endOffset": 116000
+                    "endOffset": 115975
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5227,9 +5227,9 @@
                 "to": {
                     "startLine": 1601,
                     "startColumn": 4,
-                    "startOffset": 116005,
+                    "startOffset": 115980,
                     "endColumn": 130,
-                    "endOffset": 116131
+                    "endOffset": 116106
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5239,9 +5239,9 @@
                 "to": {
                     "startLine": 1602,
                     "startColumn": 4,
-                    "startOffset": 116136,
+                    "startOffset": 116111,
                     "endColumn": 97,
-                    "endOffset": 116229
+                    "endOffset": 116204
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5251,9 +5251,9 @@
                 "to": {
                     "startLine": 1603,
                     "startColumn": 4,
-                    "startOffset": 116234,
+                    "startOffset": 116209,
                     "endColumn": 113,
-                    "endOffset": 116343
+                    "endOffset": 116318
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5263,9 +5263,9 @@
                 "to": {
                     "startLine": 1604,
                     "startColumn": 4,
-                    "startOffset": 116348,
+                    "startOffset": 116323,
                     "endColumn": 93,
-                    "endOffset": 116437
+                    "endOffset": 116412
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5275,10 +5275,10 @@
                 "to": {
                     "startLine": 1605,
                     "startColumn": 4,
-                    "startOffset": 116442,
+                    "startOffset": 116417,
                     "endLine": 1608,
                     "endColumn": 12,
-                    "endOffset": 116636
+                    "endOffset": 116611
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5288,10 +5288,10 @@
                 "to": {
                     "startLine": 1609,
                     "startColumn": 4,
-                    "startOffset": 116641,
+                    "startOffset": 116616,
                     "endLine": 1612,
                     "endColumn": 12,
-                    "endOffset": 116840
+                    "endOffset": 116815
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5301,9 +5301,9 @@
                 "to": {
                     "startLine": 1613,
                     "startColumn": 4,
-                    "startOffset": 116845,
+                    "startOffset": 116820,
                     "endColumn": 68,
-                    "endOffset": 116909
+                    "endOffset": 116884
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5313,9 +5313,9 @@
                 "to": {
                     "startLine": 1614,
                     "startColumn": 4,
-                    "startOffset": 116914,
+                    "startOffset": 116889,
                     "endColumn": 115,
-                    "endOffset": 117025
+                    "endOffset": 117000
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5325,9 +5325,9 @@
                 "to": {
                     "startLine": 1615,
                     "startColumn": 4,
-                    "startOffset": 117030,
+                    "startOffset": 117005,
                     "endColumn": 127,
-                    "endOffset": 117153
+                    "endOffset": 117128
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5337,9 +5337,9 @@
                 "to": {
                     "startLine": 1616,
                     "startColumn": 4,
-                    "startOffset": 117158,
+                    "startOffset": 117133,
                     "endColumn": 63,
-                    "endOffset": 117217
+                    "endOffset": 117192
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5349,10 +5349,10 @@
                 "to": {
                     "startLine": 1617,
                     "startColumn": 4,
-                    "startOffset": 117222,
+                    "startOffset": 117197,
                     "endLine": 1620,
                     "endColumn": 12,
-                    "endOffset": 117421
+                    "endOffset": 117396
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5362,9 +5362,9 @@
                 "to": {
                     "startLine": 1621,
                     "startColumn": 4,
-                    "startOffset": 117426,
+                    "startOffset": 117401,
                     "endColumn": 68,
-                    "endOffset": 117490
+                    "endOffset": 117465
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5374,10 +5374,10 @@
                 "to": {
                     "startLine": 1622,
                     "startColumn": 4,
-                    "startOffset": 117495,
+                    "startOffset": 117470,
                     "endLine": 1625,
                     "endColumn": 12,
-                    "endOffset": 117693
+                    "endOffset": 117668
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5387,9 +5387,9 @@
                 "to": {
                     "startLine": 1626,
                     "startColumn": 4,
-                    "startOffset": 117698,
+                    "startOffset": 117673,
                     "endColumn": 69,
-                    "endOffset": 117763
+                    "endOffset": 117738
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5399,10 +5399,10 @@
                 "to": {
                     "startLine": 1627,
                     "startColumn": 4,
-                    "startOffset": 117768,
+                    "startOffset": 117743,
                     "endLine": 1628,
                     "endColumn": 12,
-                    "endOffset": 117903
+                    "endOffset": 117878
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5412,10 +5412,10 @@
                 "to": {
                     "startLine": 1629,
                     "startColumn": 4,
-                    "startOffset": 117908,
+                    "startOffset": 117883,
                     "endLine": 1630,
                     "endColumn": 12,
-                    "endOffset": 118037
+                    "endOffset": 118012
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5425,9 +5425,9 @@
                 "to": {
                     "startLine": 1631,
                     "startColumn": 4,
-                    "startOffset": 118042,
+                    "startOffset": 118017,
                     "endColumn": 95,
-                    "endOffset": 118133
+                    "endOffset": 118108
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5437,9 +5437,9 @@
                 "to": {
                     "startLine": 1632,
                     "startColumn": 4,
-                    "startOffset": 118138,
+                    "startOffset": 118113,
                     "endColumn": 111,
-                    "endOffset": 118245
+                    "endOffset": 118220
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5449,9 +5449,9 @@
                 "to": {
                     "startLine": 1633,
                     "startColumn": 4,
-                    "startOffset": 118250,
+                    "startOffset": 118225,
                     "endColumn": 99,
-                    "endOffset": 118345
+                    "endOffset": 118320
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5461,9 +5461,9 @@
                 "to": {
                     "startLine": 1634,
                     "startColumn": 4,
-                    "startOffset": 118350,
+                    "startOffset": 118325,
                     "endColumn": 115,
-                    "endOffset": 118461
+                    "endOffset": 118436
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5473,9 +5473,9 @@
                 "to": {
                     "startLine": 1635,
                     "startColumn": 4,
-                    "startOffset": 118466,
+                    "startOffset": 118441,
                     "endColumn": 95,
-                    "endOffset": 118557
+                    "endOffset": 118532
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5485,9 +5485,9 @@
                 "to": {
                     "startLine": 1636,
                     "startColumn": 4,
-                    "startOffset": 118562,
+                    "startOffset": 118537,
                     "endColumn": 111,
-                    "endOffset": 118669
+                    "endOffset": 118644
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5497,10 +5497,10 @@
                 "to": {
                     "startLine": 1637,
                     "startColumn": 4,
-                    "startOffset": 118674,
+                    "startOffset": 118649,
                     "endLine": 1638,
                     "endColumn": 12,
-                    "endOffset": 118809
+                    "endOffset": 118784
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5510,9 +5510,9 @@
                 "to": {
                     "startLine": 1639,
                     "startColumn": 4,
-                    "startOffset": 118814,
+                    "startOffset": 118789,
                     "endColumn": 135,
-                    "endOffset": 118945
+                    "endOffset": 118920
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5522,10 +5522,10 @@
                 "to": {
                     "startLine": 1640,
                     "startColumn": 4,
-                    "startOffset": 118950,
+                    "startOffset": 118925,
                     "endLine": 1641,
                     "endColumn": 12,
-                    "endOffset": 119109
+                    "endOffset": 119084
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5535,9 +5535,9 @@
                 "to": {
                     "startLine": 1642,
                     "startColumn": 4,
-                    "startOffset": 119114,
+                    "startOffset": 119089,
                     "endColumn": 129,
-                    "endOffset": 119239
+                    "endOffset": 119214
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5547,10 +5547,10 @@
                 "to": {
                     "startLine": 1643,
                     "startColumn": 4,
-                    "startOffset": 119244,
+                    "startOffset": 119219,
                     "endLine": 1644,
                     "endColumn": 12,
-                    "endOffset": 119397
+                    "endOffset": 119372
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5560,10 +5560,10 @@
                 "to": {
                     "startLine": 1645,
                     "startColumn": 4,
-                    "startOffset": 119402,
+                    "startOffset": 119377,
                     "endLine": 1646,
                     "endColumn": 12,
-                    "endOffset": 119547
+                    "endOffset": 119522
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5573,9 +5573,9 @@
                 "to": {
                     "startLine": 1647,
                     "startColumn": 4,
-                    "startOffset": 119552,
+                    "startOffset": 119527,
                     "endColumn": 140,
-                    "endOffset": 119688
+                    "endOffset": 119663
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5585,10 +5585,10 @@
                 "to": {
                     "startLine": 1648,
                     "startColumn": 4,
-                    "startOffset": 119693,
+                    "startOffset": 119668,
                     "endLine": 1649,
                     "endColumn": 12,
-                    "endOffset": 119832
+                    "endOffset": 119807
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5598,9 +5598,9 @@
                 "to": {
                     "startLine": 1650,
                     "startColumn": 4,
-                    "startOffset": 119837,
+                    "startOffset": 119812,
                     "endColumn": 134,
-                    "endOffset": 119967
+                    "endOffset": 119942
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5610,9 +5610,9 @@
                 "to": {
                     "startLine": 1651,
                     "startColumn": 4,
-                    "startOffset": 119972,
+                    "startOffset": 119947,
                     "endColumn": 111,
-                    "endOffset": 120079
+                    "endOffset": 120054
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5622,9 +5622,9 @@
                 "to": {
                     "startLine": 1652,
                     "startColumn": 4,
-                    "startOffset": 120084,
+                    "startOffset": 120059,
                     "endColumn": 149,
-                    "endOffset": 120229
+                    "endOffset": 120204
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5634,9 +5634,9 @@
                 "to": {
                     "startLine": 1653,
                     "startColumn": 4,
-                    "startOffset": 120234,
+                    "startOffset": 120209,
                     "endColumn": 127,
-                    "endOffset": 120357
+                    "endOffset": 120332
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5646,9 +5646,9 @@
                 "to": {
                     "startLine": 1654,
                     "startColumn": 4,
-                    "startOffset": 120362,
+                    "startOffset": 120337,
                     "endColumn": 127,
-                    "endOffset": 120485
+                    "endOffset": 120460
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5658,10 +5658,10 @@
                 "to": {
                     "startLine": 1655,
                     "startColumn": 4,
-                    "startOffset": 120490,
+                    "startOffset": 120465,
                     "endLine": 1656,
                     "endColumn": 12,
-                    "endOffset": 120621
+                    "endOffset": 120596
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5671,9 +5671,9 @@
                 "to": {
                     "startLine": 1657,
                     "startColumn": 4,
-                    "startOffset": 120626,
+                    "startOffset": 120601,
                     "endColumn": 131,
-                    "endOffset": 120753
+                    "endOffset": 120728
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5683,9 +5683,9 @@
                 "to": {
                     "startLine": 1658,
                     "startColumn": 4,
-                    "startOffset": 120758,
+                    "startOffset": 120733,
                     "endColumn": 129,
-                    "endOffset": 120883
+                    "endOffset": 120858
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5695,9 +5695,9 @@
                 "to": {
                     "startLine": 1659,
                     "startColumn": 4,
-                    "startOffset": 120888,
+                    "startOffset": 120863,
                     "endColumn": 129,
-                    "endOffset": 121013
+                    "endOffset": 120988
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5707,9 +5707,9 @@
                 "to": {
                     "startLine": 1660,
                     "startColumn": 4,
-                    "startOffset": 121018,
+                    "startOffset": 120993,
                     "endColumn": 111,
-                    "endOffset": 121125
+                    "endOffset": 121100
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5719,9 +5719,9 @@
                 "to": {
                     "startLine": 1661,
                     "startColumn": 4,
-                    "startOffset": 121130,
+                    "startOffset": 121105,
                     "endColumn": 139,
-                    "endOffset": 121265
+                    "endOffset": 121240
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5731,9 +5731,9 @@
                 "to": {
                     "startLine": 1662,
                     "startColumn": 4,
-                    "startOffset": 121270,
+                    "startOffset": 121245,
                     "endColumn": 67,
-                    "endOffset": 121333
+                    "endOffset": 121308
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5743,9 +5743,9 @@
                 "to": {
                     "startLine": 1663,
                     "startColumn": 4,
-                    "startOffset": 121338,
+                    "startOffset": 121313,
                     "endColumn": 72,
-                    "endOffset": 121406
+                    "endOffset": 121381
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5755,9 +5755,9 @@
                 "to": {
                     "startLine": 1664,
                     "startColumn": 4,
-                    "startOffset": 121411,
+                    "startOffset": 121386,
                     "endColumn": 73,
-                    "endOffset": 121480
+                    "endOffset": 121455
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5767,9 +5767,9 @@
                 "to": {
                     "startLine": 1665,
                     "startColumn": 4,
-                    "startOffset": 121485,
+                    "startOffset": 121460,
                     "endColumn": 72,
-                    "endOffset": 121553
+                    "endOffset": 121528
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5779,9 +5779,9 @@
                 "to": {
                     "startLine": 1666,
                     "startColumn": 4,
-                    "startOffset": 121558,
+                    "startOffset": 121533,
                     "endColumn": 73,
-                    "endOffset": 121627
+                    "endOffset": 121602
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5791,10 +5791,10 @@
                 "to": {
                     "startLine": 1667,
                     "startColumn": 4,
-                    "startOffset": 121632,
+                    "startOffset": 121607,
                     "endLine": 1668,
                     "endColumn": 12,
-                    "endOffset": 121773
+                    "endOffset": 121748
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5804,10 +5804,10 @@
                 "to": {
                     "startLine": 1669,
                     "startColumn": 4,
-                    "startOffset": 121778,
+                    "startOffset": 121753,
                     "endLine": 1670,
                     "endColumn": 12,
-                    "endOffset": 121917
+                    "endOffset": 121892
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5817,10 +5817,10 @@
                 "to": {
                     "startLine": 1671,
                     "startColumn": 4,
-                    "startOffset": 121922,
+                    "startOffset": 121897,
                     "endLine": 1672,
                     "endColumn": 12,
-                    "endOffset": 122055
+                    "endOffset": 122030
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5830,9 +5830,9 @@
                 "to": {
                     "startLine": 1673,
                     "startColumn": 4,
-                    "startOffset": 122060,
+                    "startOffset": 122035,
                     "endColumn": 65,
-                    "endOffset": 122121
+                    "endOffset": 122096
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5842,9 +5842,9 @@
                 "to": {
                     "startLine": 1674,
                     "startColumn": 4,
-                    "startOffset": 122126,
+                    "startOffset": 122101,
                     "endColumn": 89,
-                    "endOffset": 122211
+                    "endOffset": 122186
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5854,9 +5854,9 @@
                 "to": {
                     "startLine": 1675,
                     "startColumn": 4,
-                    "startOffset": 122216,
+                    "startOffset": 122191,
                     "endColumn": 75,
-                    "endOffset": 122287
+                    "endOffset": 122262
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5866,9 +5866,9 @@
                 "to": {
                     "startLine": 1676,
                     "startColumn": 4,
-                    "startOffset": 122292,
+                    "startOffset": 122267,
                     "endColumn": 103,
-                    "endOffset": 122391
+                    "endOffset": 122366
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5878,9 +5878,9 @@
                 "to": {
                     "startLine": 1677,
                     "startColumn": 4,
-                    "startOffset": 122396,
+                    "startOffset": 122371,
                     "endColumn": 89,
-                    "endOffset": 122481
+                    "endOffset": 122456
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5890,9 +5890,9 @@
                 "to": {
                     "startLine": 1678,
                     "startColumn": 4,
-                    "startOffset": 122486,
+                    "startOffset": 122461,
                     "endColumn": 101,
-                    "endOffset": 122583
+                    "endOffset": 122558
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5902,9 +5902,9 @@
                 "to": {
                     "startLine": 1679,
                     "startColumn": 4,
-                    "startOffset": 122588,
+                    "startOffset": 122563,
                     "endColumn": 107,
-                    "endOffset": 122691
+                    "endOffset": 122666
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5914,9 +5914,9 @@
                 "to": {
                     "startLine": 1680,
                     "startColumn": 4,
-                    "startOffset": 122696,
+                    "startOffset": 122671,
                     "endColumn": 107,
-                    "endOffset": 122799
+                    "endOffset": 122774
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5926,9 +5926,9 @@
                 "to": {
                     "startLine": 1681,
                     "startColumn": 4,
-                    "startOffset": 122804,
+                    "startOffset": 122779,
                     "endColumn": 99,
-                    "endOffset": 122899
+                    "endOffset": 122874
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5938,9 +5938,9 @@
                 "to": {
                     "startLine": 1682,
                     "startColumn": 4,
-                    "startOffset": 122904,
+                    "startOffset": 122879,
                     "endColumn": 79,
-                    "endOffset": 122979
+                    "endOffset": 122954
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5950,9 +5950,9 @@
                 "to": {
                     "startLine": 1683,
                     "startColumn": 4,
-                    "startOffset": 122984,
+                    "startOffset": 122959,
                     "endColumn": 91,
-                    "endOffset": 123071
+                    "endOffset": 123046
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5962,9 +5962,9 @@
                 "to": {
                     "startLine": 1684,
                     "startColumn": 4,
-                    "startOffset": 123076,
+                    "startOffset": 123051,
                     "endColumn": 97,
-                    "endOffset": 123169
+                    "endOffset": 123144
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5974,10 +5974,10 @@
                 "to": {
                     "startLine": 1685,
                     "startColumn": 4,
-                    "startOffset": 123174,
+                    "startOffset": 123149,
                     "endLine": 1686,
                     "endColumn": 12,
-                    "endOffset": 123279
+                    "endOffset": 123254
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5987,9 +5987,9 @@
                 "to": {
                     "startLine": 1687,
                     "startColumn": 4,
-                    "startOffset": 123284,
+                    "startOffset": 123259,
                     "endColumn": 77,
-                    "endOffset": 123357
+                    "endOffset": 123332
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -5999,9 +5999,9 @@
                 "to": {
                     "startLine": 1688,
                     "startColumn": 4,
-                    "startOffset": 123362,
+                    "startOffset": 123337,
                     "endColumn": 105,
-                    "endOffset": 123463
+                    "endOffset": 123438
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6011,9 +6011,9 @@
                 "to": {
                     "startLine": 1689,
                     "startColumn": 4,
-                    "startOffset": 123468,
+                    "startOffset": 123443,
                     "endColumn": 91,
-                    "endOffset": 123555
+                    "endOffset": 123530
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6023,9 +6023,9 @@
                 "to": {
                     "startLine": 1690,
                     "startColumn": 4,
-                    "startOffset": 123560,
+                    "startOffset": 123535,
                     "endColumn": 103,
-                    "endOffset": 123659
+                    "endOffset": 123634
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6035,9 +6035,9 @@
                 "to": {
                     "startLine": 1691,
                     "startColumn": 4,
-                    "startOffset": 123664,
+                    "startOffset": 123639,
                     "endColumn": 109,
-                    "endOffset": 123769
+                    "endOffset": 123744
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6047,10 +6047,10 @@
                 "to": {
                     "startLine": 1692,
                     "startColumn": 4,
-                    "startOffset": 123774,
+                    "startOffset": 123749,
                     "endLine": 1693,
                     "endColumn": 12,
-                    "endOffset": 123891
+                    "endOffset": 123866
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6060,10 +6060,10 @@
                 "to": {
                     "startLine": 1694,
                     "startColumn": 4,
-                    "startOffset": 123896,
+                    "startOffset": 123871,
                     "endLine": 1697,
                     "endColumn": 12,
-                    "endOffset": 124054
+                    "endOffset": 124029
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6073,10 +6073,10 @@
                 "to": {
                     "startLine": 1698,
                     "startColumn": 4,
-                    "startOffset": 124059,
+                    "startOffset": 124034,
                     "endLine": 1701,
                     "endColumn": 12,
-                    "endOffset": 124211
+                    "endOffset": 124186
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6086,9 +6086,9 @@
                 "to": {
                     "startLine": 1702,
                     "startColumn": 4,
-                    "startOffset": 124216,
+                    "startOffset": 124191,
                     "endColumn": 79,
-                    "endOffset": 124291
+                    "endOffset": 124266
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6098,9 +6098,9 @@
                 "to": {
                     "startLine": 1703,
                     "startColumn": 4,
-                    "startOffset": 124296,
+                    "startOffset": 124271,
                     "endColumn": 99,
-                    "endOffset": 124391
+                    "endOffset": 124366
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6110,9 +6110,9 @@
                 "to": {
                     "startLine": 1704,
                     "startColumn": 4,
-                    "startOffset": 124396,
+                    "startOffset": 124371,
                     "endColumn": 89,
-                    "endOffset": 124481
+                    "endOffset": 124456
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6122,9 +6122,9 @@
                 "to": {
                     "startLine": 1705,
                     "startColumn": 4,
-                    "startOffset": 124486,
+                    "startOffset": 124461,
                     "endColumn": 109,
-                    "endOffset": 124591
+                    "endOffset": 124566
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6134,9 +6134,9 @@
                 "to": {
                     "startLine": 1706,
                     "startColumn": 4,
-                    "startOffset": 124596,
+                    "startOffset": 124571,
                     "endColumn": 93,
-                    "endOffset": 124685
+                    "endOffset": 124660
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6146,9 +6146,9 @@
                 "to": {
                     "startLine": 1707,
                     "startColumn": 4,
-                    "startOffset": 124690,
+                    "startOffset": 124665,
                     "endColumn": 105,
-                    "endOffset": 124791
+                    "endOffset": 124766
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6158,9 +6158,9 @@
                 "to": {
                     "startLine": 1708,
                     "startColumn": 4,
-                    "startOffset": 124796,
+                    "startOffset": 124771,
                     "endColumn": 91,
-                    "endOffset": 124883
+                    "endOffset": 124858
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6170,10 +6170,10 @@
                 "to": {
                     "startLine": 1709,
                     "startColumn": 4,
-                    "startOffset": 124888,
+                    "startOffset": 124863,
                     "endLine": 1710,
                     "endColumn": 12,
-                    "endOffset": 124983
+                    "endOffset": 124958
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6183,10 +6183,10 @@
                 "to": {
                     "startLine": 1711,
                     "startColumn": 4,
-                    "startOffset": 124988,
+                    "startOffset": 124963,
                     "endLine": 1712,
                     "endColumn": 12,
-                    "endOffset": 125095
+                    "endOffset": 125070
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6196,10 +6196,10 @@
                 "to": {
                     "startLine": 1713,
                     "startColumn": 4,
-                    "startOffset": 125100,
+                    "startOffset": 125075,
                     "endLine": 1714,
                     "endColumn": 12,
-                    "endOffset": 125209
+                    "endOffset": 125184
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6209,10 +6209,10 @@
                 "to": {
                     "startLine": 1715,
                     "startColumn": 4,
-                    "startOffset": 125214,
+                    "startOffset": 125189,
                     "endLine": 1716,
                     "endColumn": 12,
-                    "endOffset": 125325
+                    "endOffset": 125300
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6222,10 +6222,10 @@
                 "to": {
                     "startLine": 1717,
                     "startColumn": 4,
-                    "startOffset": 125330,
+                    "startOffset": 125305,
                     "endLine": 1718,
                     "endColumn": 12,
-                    "endOffset": 125441
+                    "endOffset": 125416
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6235,9 +6235,9 @@
                 "to": {
                     "startLine": 1719,
                     "startColumn": 4,
-                    "startOffset": 125446,
+                    "startOffset": 125421,
                     "endColumn": 93,
-                    "endOffset": 125535
+                    "endOffset": 125510
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6247,9 +6247,9 @@
                 "to": {
                     "startLine": 1720,
                     "startColumn": 4,
-                    "startOffset": 125540,
+                    "startOffset": 125515,
                     "endColumn": 113,
-                    "endOffset": 125649
+                    "endOffset": 125624
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6259,9 +6259,9 @@
                 "to": {
                     "startLine": 1721,
                     "startColumn": 4,
-                    "startOffset": 125654,
+                    "startOffset": 125629,
                     "endColumn": 111,
-                    "endOffset": 125761
+                    "endOffset": 125736
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6271,10 +6271,10 @@
                 "to": {
                     "startLine": 1722,
                     "startColumn": 4,
-                    "startOffset": 125766,
+                    "startOffset": 125741,
                     "endLine": 1723,
                     "endColumn": 12,
-                    "endOffset": 125863
+                    "endOffset": 125838
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6284,10 +6284,10 @@
                 "to": {
                     "startLine": 1724,
                     "startColumn": 4,
-                    "startOffset": 125868,
+                    "startOffset": 125843,
                     "endLine": 1725,
                     "endColumn": 12,
-                    "endOffset": 125983
+                    "endOffset": 125958
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6297,10 +6297,10 @@
                 "to": {
                     "startLine": 1726,
                     "startColumn": 4,
-                    "startOffset": 125988,
+                    "startOffset": 125963,
                     "endLine": 1727,
                     "endColumn": 12,
-                    "endOffset": 126105
+                    "endOffset": 126080
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6310,9 +6310,9 @@
                 "to": {
                     "startLine": 1728,
                     "startColumn": 4,
-                    "startOffset": 126110,
+                    "startOffset": 126085,
                     "endColumn": 81,
-                    "endOffset": 126187
+                    "endOffset": 126162
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6322,9 +6322,9 @@
                 "to": {
                     "startLine": 1729,
                     "startColumn": 4,
-                    "startOffset": 126192,
+                    "startOffset": 126167,
                     "endColumn": 103,
-                    "endOffset": 126291
+                    "endOffset": 126266
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6334,9 +6334,9 @@
                 "to": {
                     "startLine": 1730,
                     "startColumn": 4,
-                    "startOffset": 126296,
+                    "startOffset": 126271,
                     "endColumn": 119,
-                    "endOffset": 126411
+                    "endOffset": 126386
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6346,9 +6346,9 @@
                 "to": {
                     "startLine": 1731,
                     "startColumn": 4,
-                    "startOffset": 126416,
+                    "startOffset": 126391,
                     "endColumn": 125,
-                    "endOffset": 126537
+                    "endOffset": 126512
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6358,9 +6358,9 @@
                 "to": {
                     "startLine": 1732,
                     "startColumn": 4,
-                    "startOffset": 126542,
+                    "startOffset": 126517,
                     "endColumn": 97,
-                    "endOffset": 126635
+                    "endOffset": 126610
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6370,9 +6370,9 @@
                 "to": {
                     "startLine": 1733,
                     "startColumn": 4,
-                    "startOffset": 126640,
+                    "startOffset": 126615,
                     "endColumn": 93,
-                    "endOffset": 126729
+                    "endOffset": 126704
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6382,9 +6382,9 @@
                 "to": {
                     "startLine": 1734,
                     "startColumn": 4,
-                    "startOffset": 126734,
+                    "startOffset": 126709,
                     "endColumn": 87,
-                    "endOffset": 126817
+                    "endOffset": 126792
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6394,9 +6394,9 @@
                 "to": {
                     "startLine": 1735,
                     "startColumn": 4,
-                    "startOffset": 126822,
+                    "startOffset": 126797,
                     "endColumn": 111,
-                    "endOffset": 126929
+                    "endOffset": 126904
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6406,9 +6406,9 @@
                 "to": {
                     "startLine": 1736,
                     "startColumn": 4,
-                    "startOffset": 126934,
+                    "startOffset": 126909,
                     "endColumn": 115,
-                    "endOffset": 127045
+                    "endOffset": 127020
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6418,9 +6418,9 @@
                 "to": {
                     "startLine": 1737,
                     "startColumn": 4,
-                    "startOffset": 127050,
+                    "startOffset": 127025,
                     "endColumn": 121,
-                    "endOffset": 127167
+                    "endOffset": 127142
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6430,9 +6430,9 @@
                 "to": {
                     "startLine": 1738,
                     "startColumn": 4,
-                    "startOffset": 127172,
+                    "startOffset": 127147,
                     "endColumn": 111,
-                    "endOffset": 127279
+                    "endOffset": 127254
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6442,10 +6442,10 @@
                 "to": {
                     "startLine": 1739,
                     "startColumn": 4,
-                    "startOffset": 127284,
+                    "startOffset": 127259,
                     "endLine": 1741,
                     "endColumn": 12,
-                    "endOffset": 127454
+                    "endOffset": 127429
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6455,9 +6455,9 @@
                 "to": {
                     "startLine": 1742,
                     "startColumn": 4,
-                    "startOffset": 127459,
+                    "startOffset": 127434,
                     "endColumn": 115,
-                    "endOffset": 127570
+                    "endOffset": 127545
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6467,9 +6467,9 @@
                 "to": {
                     "startLine": 1743,
                     "startColumn": 4,
-                    "startOffset": 127575,
+                    "startOffset": 127550,
                     "endColumn": 85,
-                    "endOffset": 127656
+                    "endOffset": 127631
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6479,9 +6479,9 @@
                 "to": {
                     "startLine": 1744,
                     "startColumn": 4,
-                    "startOffset": 127661,
+                    "startOffset": 127636,
                     "endColumn": 91,
-                    "endOffset": 127748
+                    "endOffset": 127723
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6491,10 +6491,10 @@
                 "to": {
                     "startLine": 1745,
                     "startColumn": 4,
-                    "startOffset": 127753,
+                    "startOffset": 127728,
                     "endLine": 1746,
                     "endColumn": 12,
-                    "endOffset": 127860
+                    "endOffset": 127835
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6504,10 +6504,10 @@
                 "to": {
                     "startLine": 1747,
                     "startColumn": 4,
-                    "startOffset": 127865,
+                    "startOffset": 127840,
                     "endLine": 1748,
                     "endColumn": 12,
-                    "endOffset": 127984
+                    "endOffset": 127959
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6517,9 +6517,9 @@
                 "to": {
                     "startLine": 1749,
                     "startColumn": 4,
-                    "startOffset": 127989,
+                    "startOffset": 127964,
                     "endColumn": 66,
-                    "endOffset": 128051
+                    "endOffset": 128026
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6529,10 +6529,10 @@
                 "to": {
                     "startLine": 1750,
                     "startColumn": 4,
-                    "startOffset": 128056,
+                    "startOffset": 128031,
                     "endLine": 1751,
                     "endColumn": 12,
-                    "endOffset": 128177
+                    "endOffset": 128152
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6542,9 +6542,9 @@
                 "to": {
                     "startLine": 1752,
                     "startColumn": 4,
-                    "startOffset": 128182,
+                    "startOffset": 128157,
                     "endColumn": 67,
-                    "endOffset": 128245
+                    "endOffset": 128220
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6554,10 +6554,10 @@
                 "to": {
                     "startLine": 1753,
                     "startColumn": 4,
-                    "startOffset": 128250,
+                    "startOffset": 128225,
                     "endLine": 1754,
                     "endColumn": 12,
-                    "endOffset": 128373
+                    "endOffset": 128348
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6567,10 +6567,10 @@
                 "to": {
                     "startLine": 1755,
                     "startColumn": 4,
-                    "startOffset": 128378,
+                    "startOffset": 128353,
                     "endLine": 1756,
                     "endColumn": 12,
-                    "endOffset": 128517
+                    "endOffset": 128492
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6580,10 +6580,10 @@
                 "to": {
                     "startLine": 1757,
                     "startColumn": 4,
-                    "startOffset": 128522,
+                    "startOffset": 128497,
                     "endLine": 1758,
                     "endColumn": 12,
-                    "endOffset": 128645
+                    "endOffset": 128620
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6593,9 +6593,9 @@
                 "to": {
                     "startLine": 1759,
                     "startColumn": 4,
-                    "startOffset": 128650,
+                    "startOffset": 128625,
                     "endColumn": 68,
-                    "endOffset": 128714
+                    "endOffset": 128689
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6605,9 +6605,9 @@
                 "to": {
                     "startLine": 1760,
                     "startColumn": 4,
-                    "startOffset": 128719,
+                    "startOffset": 128694,
                     "endColumn": 94,
-                    "endOffset": 128809
+                    "endOffset": 128784
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6617,9 +6617,9 @@
                 "to": {
                     "startLine": 1761,
                     "startColumn": 4,
-                    "startOffset": 128814,
+                    "startOffset": 128789,
                     "endColumn": 114,
-                    "endOffset": 128924
+                    "endOffset": 128899
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6629,9 +6629,9 @@
                 "to": {
                     "startLine": 1762,
                     "startColumn": 4,
-                    "startOffset": 128929,
+                    "startOffset": 128904,
                     "endColumn": 112,
-                    "endOffset": 129037
+                    "endOffset": 129012
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6641,9 +6641,9 @@
                 "to": {
                     "startLine": 1763,
                     "startColumn": 4,
-                    "startOffset": 129042,
+                    "startOffset": 129017,
                     "endColumn": 98,
-                    "endOffset": 129136
+                    "endOffset": 129111
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6653,9 +6653,9 @@
                 "to": {
                     "startLine": 1764,
                     "startColumn": 4,
-                    "startOffset": 129141,
+                    "startOffset": 129116,
                     "endColumn": 108,
-                    "endOffset": 129245
+                    "endOffset": 129220
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6665,9 +6665,9 @@
                 "to": {
                     "startLine": 1765,
                     "startColumn": 4,
-                    "startOffset": 129250,
+                    "startOffset": 129225,
                     "endColumn": 110,
-                    "endOffset": 129356
+                    "endOffset": 129331
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6677,9 +6677,9 @@
                 "to": {
                     "startLine": 1766,
                     "startColumn": 4,
-                    "startOffset": 129361,
+                    "startOffset": 129336,
                     "endColumn": 110,
-                    "endOffset": 129467
+                    "endOffset": 129442
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6689,9 +6689,9 @@
                 "to": {
                     "startLine": 1767,
                     "startColumn": 4,
-                    "startOffset": 129472,
+                    "startOffset": 129447,
                     "endColumn": 100,
-                    "endOffset": 129568
+                    "endOffset": 129543
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6701,9 +6701,9 @@
                 "to": {
                     "startLine": 1768,
                     "startColumn": 4,
-                    "startOffset": 129573,
+                    "startOffset": 129548,
                     "endColumn": 104,
-                    "endOffset": 129673
+                    "endOffset": 129648
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6713,9 +6713,9 @@
                 "to": {
                     "startLine": 1769,
                     "startColumn": 4,
-                    "startOffset": 129678,
+                    "startOffset": 129653,
                     "endColumn": 99,
-                    "endOffset": 129773
+                    "endOffset": 129748
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6725,10 +6725,10 @@
                 "to": {
                     "startLine": 1770,
                     "startColumn": 4,
-                    "startOffset": 129778,
+                    "startOffset": 129753,
                     "endLine": 1771,
                     "endColumn": 12,
-                    "endOffset": 129903
+                    "endOffset": 129878
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6738,9 +6738,9 @@
                 "to": {
                     "startLine": 1772,
                     "startColumn": 4,
-                    "startOffset": 129908,
+                    "startOffset": 129883,
                     "endColumn": 90,
-                    "endOffset": 129994
+                    "endOffset": 129969
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6750,9 +6750,9 @@
                 "to": {
                     "startLine": 1773,
                     "startColumn": 4,
-                    "startOffset": 129999,
+                    "startOffset": 129974,
                     "endColumn": 122,
-                    "endOffset": 130117
+                    "endOffset": 130092
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6762,9 +6762,9 @@
                 "to": {
                     "startLine": 1774,
                     "startColumn": 4,
-                    "startOffset": 130122,
+                    "startOffset": 130097,
                     "endColumn": 93,
-                    "endOffset": 130211
+                    "endOffset": 130186
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6774,10 +6774,10 @@
                 "to": {
                     "startLine": 1775,
                     "startColumn": 4,
-                    "startOffset": 130216,
+                    "startOffset": 130191,
                     "endLine": 1776,
                     "endColumn": 12,
-                    "endOffset": 130323
+                    "endOffset": 130298
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6787,9 +6787,9 @@
                 "to": {
                     "startLine": 1777,
                     "startColumn": 4,
-                    "startOffset": 130328,
+                    "startOffset": 130303,
                     "endColumn": 85,
-                    "endOffset": 130409
+                    "endOffset": 130384
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6799,9 +6799,9 @@
                 "to": {
                     "startLine": 1778,
                     "startColumn": 4,
-                    "startOffset": 130414,
+                    "startOffset": 130389,
                     "endColumn": 103,
-                    "endOffset": 130513
+                    "endOffset": 130488
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6811,9 +6811,9 @@
                 "to": {
                     "startLine": 1779,
                     "startColumn": 4,
-                    "startOffset": 130518,
+                    "startOffset": 130493,
                     "endColumn": 95,
-                    "endOffset": 130609
+                    "endOffset": 130584
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6823,9 +6823,9 @@
                 "to": {
                     "startLine": 1780,
                     "startColumn": 4,
-                    "startOffset": 130614,
+                    "startOffset": 130589,
                     "endColumn": 74,
-                    "endOffset": 130684
+                    "endOffset": 130659
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6835,9 +6835,9 @@
                 "to": {
                     "startLine": 1781,
                     "startColumn": 4,
-                    "startOffset": 130689,
+                    "startOffset": 130664,
                     "endColumn": 69,
-                    "endOffset": 130754
+                    "endOffset": 130729
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6847,9 +6847,9 @@
                 "to": {
                     "startLine": 1782,
                     "startColumn": 4,
-                    "startOffset": 130759,
+                    "startOffset": 130734,
                     "endColumn": 87,
-                    "endOffset": 130842
+                    "endOffset": 130817
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6859,10 +6859,10 @@
                 "to": {
                     "startLine": 1783,
                     "startColumn": 4,
-                    "startOffset": 130847,
+                    "startOffset": 130822,
                     "endLine": 1784,
                     "endColumn": 12,
-                    "endOffset": 130960
+                    "endOffset": 130935
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6872,10 +6872,10 @@
                 "to": {
                     "startLine": 1785,
                     "startColumn": 4,
-                    "startOffset": 130965,
+                    "startOffset": 130940,
                     "endLine": 1786,
                     "endColumn": 12,
-                    "endOffset": 131064
+                    "endOffset": 131039
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6885,10 +6885,10 @@
                 "to": {
                     "startLine": 1787,
                     "startColumn": 4,
-                    "startOffset": 131069,
+                    "startOffset": 131044,
                     "endLine": 1788,
                     "endColumn": 12,
-                    "endOffset": 131168
+                    "endOffset": 131143
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6898,10 +6898,10 @@
                 "to": {
                     "startLine": 1789,
                     "startColumn": 4,
-                    "startOffset": 131173,
+                    "startOffset": 131148,
                     "endLine": 1790,
                     "endColumn": 12,
-                    "endOffset": 131294
+                    "endOffset": 131269
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6911,9 +6911,9 @@
                 "to": {
                     "startLine": 1791,
                     "startColumn": 4,
-                    "startOffset": 131299,
+                    "startOffset": 131274,
                     "endColumn": 87,
-                    "endOffset": 131382
+                    "endOffset": 131357
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6923,9 +6923,9 @@
                 "to": {
                     "startLine": 1792,
                     "startColumn": 4,
-                    "startOffset": 131387,
+                    "startOffset": 131362,
                     "endColumn": 107,
-                    "endOffset": 131490
+                    "endOffset": 131465
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6935,9 +6935,9 @@
                 "to": {
                     "startLine": 1793,
                     "startColumn": 4,
-                    "startOffset": 131495,
+                    "startOffset": 131470,
                     "endColumn": 99,
-                    "endOffset": 131590
+                    "endOffset": 131565
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6947,9 +6947,9 @@
                 "to": {
                     "startLine": 1794,
                     "startColumn": 4,
-                    "startOffset": 131595,
+                    "startOffset": 131570,
                     "endColumn": 89,
-                    "endOffset": 131680
+                    "endOffset": 131655
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6959,9 +6959,9 @@
                 "to": {
                     "startLine": 1795,
                     "startColumn": 4,
-                    "startOffset": 131685,
+                    "startOffset": 131660,
                     "endColumn": 109,
-                    "endOffset": 131790
+                    "endOffset": 131765
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6971,9 +6971,9 @@
                 "to": {
                     "startLine": 1796,
                     "startColumn": 4,
-                    "startOffset": 131795,
+                    "startOffset": 131770,
                     "endColumn": 83,
-                    "endOffset": 131874
+                    "endOffset": 131849
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6983,9 +6983,9 @@
                 "to": {
                     "startLine": 1797,
                     "startColumn": 4,
-                    "startOffset": 131879,
+                    "startOffset": 131854,
                     "endColumn": 101,
-                    "endOffset": 131976
+                    "endOffset": 131951
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -6995,9 +6995,9 @@
                 "to": {
                     "startLine": 1798,
                     "startColumn": 4,
-                    "startOffset": 131981,
+                    "startOffset": 131956,
                     "endColumn": 83,
-                    "endOffset": 132060
+                    "endOffset": 132035
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -7007,9 +7007,9 @@
                 "to": {
                     "startLine": 1799,
                     "startColumn": 4,
-                    "startOffset": 132065,
+                    "startOffset": 132040,
                     "endColumn": 53,
-                    "endOffset": 132114
+                    "endOffset": 132089
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -7019,9 +7019,9 @@
                 "to": {
                     "startLine": 1800,
                     "startColumn": 4,
-                    "startOffset": 132119,
+                    "startOffset": 132094,
                     "endColumn": 63,
-                    "endOffset": 132178
+                    "endOffset": 132153
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -7031,9 +7031,9 @@
                 "to": {
                     "startLine": 1801,
                     "startColumn": 4,
-                    "startOffset": 132183,
+                    "startOffset": 132158,
                     "endColumn": 105,
-                    "endOffset": 132284
+                    "endOffset": 132259
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -7043,9 +7043,9 @@
                 "to": {
                     "startLine": 1802,
                     "startColumn": 4,
-                    "startOffset": 132289,
+                    "startOffset": 132264,
                     "endColumn": 109,
-                    "endOffset": 132394
+                    "endOffset": 132369
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -7055,9 +7055,9 @@
                 "to": {
                     "startLine": 1803,
                     "startColumn": 4,
-                    "startOffset": 132399,
+                    "startOffset": 132374,
                     "endColumn": 83,
-                    "endOffset": 132478
+                    "endOffset": 132453
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"
@@ -7067,9 +7067,9 @@
                 "to": {
                     "startLine": 1804,
                     "startColumn": 4,
-                    "startOffset": 132483,
+                    "startOffset": 132458,
                     "endColumn": 119,
-                    "endOffset": 132598
+                    "endOffset": 132573
                 },
                 "from": {
                     "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values\\values.xml"

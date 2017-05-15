@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:2:1-43:12
+ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:2:1-44:12
 	package
 		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:3:5-42
 		INJECTED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml
@@ -17,8 +17,13 @@ uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:10:5-79
 	android:name
 		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\FrostedFin\.android\build-cache\504e079bd6867fb08a36f8ccb810f49e2b84215a\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:11:22-64
 application
-ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:12:5-41:19
+ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:13:5-42:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\FrostedFin\.android\build-cache\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\FrostedFin\.android\build-cache\d0206e41dd4cfa14cfb54f2c123d875aafdb078a\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\FrostedFin\.android\build-cache\27f478e75d1217954b7fdb78efa8437d874213db\output\AndroidManifest.xml:26:5-20
@@ -33,39 +38,39 @@ MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\FrostedFin\.an
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\FrostedFin\.android\build-cache\5a7b160484a6881ab3ba443d490082a3297830d8\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\FrostedFin\.android\build-cache\bf682fb101cc2184593bda35b15e211cc63d5c6a\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:16:9-41
 	android:supportsRtl
-		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:18:9-35
 	android:roundIcon
-		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:16:9-54
+		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:17:9-54
 	android:allowBackup
-		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:14:9-35
 	android:icon
-		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:14:9-43
+		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:15:9-43
 	android:theme
-		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:18:9-40
+		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:19:9-40
 meta-data#com.google.android.geo.API_KEY
-ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:28:9-30:55
+ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:29:9-31:55
 	android:value
-		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:30:13-52
+		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:31:13-52
 	android:name
-		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:29:13-58
+		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:30:13-58
 activity#com.example.frostedfin.test.MapsActivity
-ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:32:9-40:20
+ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:33:9-41:20
 	android:label
-		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:34:13-56
+		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:35:13-56
 	android:name
-		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:33:13-41
+		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:34:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:35:13-39:29
+ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:36:13-40:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:36:17-69
+ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:37:17-69
 	android:name
-		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:36:25-66
+		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:37:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:38:17-77
+ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:39:17-77
 	android:name
-		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:38:27-74
+		ADDED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml:39:27-74
 uses-sdk
 INJECTED from C:\Users\FrostedFin\Desktop\android-samples-master\tutorials\test\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\FrostedFin\.android\build-cache\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\output\AndroidManifest.xml:21:5-23:78
@@ -107,10 +112,6 @@ uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\FrostedFin\.android\build-cache\504e079bd6867fb08a36f8ccb810f49e2b84215a\output\AndroidManifest.xml:19:5-78
 	android:name
 		ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\FrostedFin\.android\build-cache\504e079bd6867fb08a36f8ccb810f49e2b84215a\output\AndroidManifest.xml:19:22-76
-uses-permission#android.permission.INTERNET
-ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\FrostedFin\.android\build-cache\504e079bd6867fb08a36f8ccb810f49e2b84215a\output\AndroidManifest.xml:20:5-66
-	android:name
-		ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\FrostedFin\.android\build-cache\504e079bd6867fb08a36f8ccb810f49e2b84215a\output\AndroidManifest.xml:20:22-64
 uses-feature#0x00020000
 ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\FrostedFin\.android\build-cache\504e079bd6867fb08a36f8ccb810f49e2b84215a\output\AndroidManifest.xml:21:5-77
 	android:glEsVersion

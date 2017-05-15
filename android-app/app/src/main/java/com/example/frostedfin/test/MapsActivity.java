@@ -1,6 +1,5 @@
 package com.example.frostedfin.test;
 
-import android.content.Intent;
 import android.os.AsyncTask;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
@@ -15,20 +14,19 @@ import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import java.io.IOException;
+import java.io.BufferedInputStream;
+import java.io.BufferedReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-import javax.net.ssl.HttpsURLConnection;
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
 
     private GoogleMap mMap;
-    public final URL apiAdd = new URL ("https://apinf.io:3002/turku_street_maintenance_v1/vehicles/?limit=10&since=2017&api_key=Turku_api_key");
+    public final URL mTurkuApiUrl = new URL("https://apinf.io:3002/turku_street_maintenance_v1/vehicles/?limit=10&since=2017&api_key=your_apinf_io_api_key_here");
 
     public MapsActivity() throws MalformedURLException {
     }
@@ -42,9 +40,19 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 .findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
 
+        try {
+            CallTask taski = new CallTask();
+            taski.execute(mTurkuApiUrl);
+        } catch (MalformedURLException e) {
+            e.printStackTrace();
+        }
     }
 
+    public void addMarksFromJson(String jsonStr) {
+        // tbd: parse json
+        Toast.makeText(this,jsonStr,Toast.LENGTH_SHORT).show();
 
+    }
 
     @Override
     public void onMapReady(GoogleMap googleMap) {
@@ -53,7 +61,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         // Add a marker in Tampere and move the camera
 
 
-        ((Button)findViewById(R.id.button2)).setOnClickListener(new View.OnClickListener() {
+        ((Button) findViewById(R.id.button2)).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 LatLng Tampere = new LatLng(61.503007, 23.764052);
@@ -61,57 +69,54 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 mMap.moveCamera(CameraUpdateFactory.newLatLng(Tampere));
 
 
-                /*try {
-                    HttpsURLConnection myConnection = (HttpsURLConnection) apiAdd.openConnection();
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
-
-
-                JSONArray turkuAll = null;
-                try {
-                    turkuAll = new JSONArray(response);
-                } catch (JSONException e) {
-                    e.printStackTrace();
-                }
-                String koira="";
-                String kissa="";
-                for (int i = 0; i< turkuAll.length(); i++){
-                    try {
-                        String lastLocationStr = turkuAll.getJSONObject(i).getString("last_location").toString();
-                        JSONObject lastLocationObj = new JSONObject(lastLocationStr);
-                        //koira = koira + lastLocationObj.toString()+"\n";
-
-                        //kissa = kissa + lastLocationObj.getJSONObject("coords").toString() + "\n";
-                        String coordsJsonArrayStr = lastLocationObj.getString("coords").toString() + "\n";
-                        JSONArray coordsJsonArray = null;
-                        try {
-                            coordsJsonArray = new JSONArray(coordsJsonArrayStr);
-                        } catch (JSONException e) {
-                            e.printStackTrace();
-                        }
-
-                        String longitude = coordsJsonArray.getString(0);
-                        String latitude = coordsJsonArray.getString(1);
-                        double lon= Double.parseDouble(longitude);
-                        double lat= Double.parseDouble(latitude);
-                        kissa = kissa + " " + "Kierros " + Integer.toString(i) +"long =" + longitude + "\n";
-                        koira = koira + " " + "Kierros " + Integer.toString(i) +"lat =" + latitude + "\n";
-                        LatLng uusin = new LatLng(lon,lat);
-                        mMap.addMarker(new MarkerOptions().position(uusin).title("Marker" + i));
-
-                    } catch (JSONException e) {
-                        e.printStackTrace();
-                    }
-
-                }*/
             }
         });
-        ((Button)findViewById(R.id.button3)).setOnClickListener(new View.OnClickListener() {
+        ((Button) findViewById(R.id.button3)).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 mMap.clear();
             }
         });
     }
+
+
+    private class CallTask extends AsyncTask<URL, Void, String> {
+        HttpURLConnection mUrlConnection;
+
+        public CallTask() throws MalformedURLException {
+        }
+
+
+        @Override
+        protected String doInBackground(URL... urlStr) {
+
+            StringBuilder result = new StringBuilder();
+            try {
+                mUrlConnection = (HttpURLConnection) urlStr[0].openConnection();
+                InputStream in = new BufferedInputStream(mUrlConnection.getInputStream());
+
+                BufferedReader reader = new BufferedReader(new InputStreamReader(in));
+
+                String line;
+                while ((line = reader.readLine()) != null) {
+                    result.append(line);
+                }
+
+            } catch (Exception e) {
+                e.printStackTrace();
+            } finally {
+                mUrlConnection.disconnect();
+            }
+
+            return result.toString();
+        }
+
+        @Override
+        protected void onPostExecute(String result) {
+
+            addMarksFromJson(result);
+        }
+
+    }
 }
+

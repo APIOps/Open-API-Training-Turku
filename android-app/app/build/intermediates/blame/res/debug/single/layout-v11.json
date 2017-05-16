@@ -1,26 +1,26 @@
 [
     {
-        "merged": "C:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\layout-v11\\notification_template_big_media.xml"
-    },
-    {
-        "merged": "C:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "C:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
-    },
-    {
-        "merged": "C:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\layout-v11\\notification_media_action.xml"
-    },
-    {
-        "merged": "C:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
         "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
         "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     }
 ]

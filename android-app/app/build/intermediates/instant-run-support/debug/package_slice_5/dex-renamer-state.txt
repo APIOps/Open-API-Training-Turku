@@ -1,4 +1,4 @@
-#Wed May 10 10:02:33 EEST 2017
-base.0=C\:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+#Mon May 15 13:04:55 EEST 2017
+base.0=C\:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
 renamed.0=classes.dex
-file.0=C\:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex
+file.0=C\:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex

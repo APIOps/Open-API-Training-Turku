@@ -16,7 +16,7 @@
             android:layout_width="190dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Add mark" />
+            android:text="Refresh" />
 
         <Button
             android:id="@+id/button3"
@@ -24,6 +24,7 @@
             android:layout_height="wrap_content"
             android:text="Clear" />
     </LinearLayout>
+
 
     <fragment
         android:id="@+id/map"

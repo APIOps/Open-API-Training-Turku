@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
         "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
         "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\layout-v21\\notification_action.xml"
+        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     }
 ]

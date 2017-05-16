@@ -1,7 +1,7 @@
-#Thu May 11 14:57:06 EEST 2017
-base.0=C\:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d68717e9b4d4915d25f2d6b0ed479e3f50f51233
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9fde7efd0dfb35ba1b88705d767f65daa01c841b\\classes.dex
-base.1=C\:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9fde7efd0dfb35ba1b88705d767f65daa01c841b
-file.0=C\:\\Users\\FrostedFin\\Desktop\\android-samples-master\\tutorials\\test\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d68717e9b4d4915d25f2d6b0ed479e3f50f51233\\classes.dex
+#Tue May 16 08:52:17 EEST 2017
+base.0=C\:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_345eff879cd8cabc9f75ef5038651b34825a352f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_72b0dcebd9b4f52dca06002ae9537ec1c912ef61\\classes.dex
+base.1=C\:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_72b0dcebd9b4f52dca06002ae9537ec1c912ef61
+file.0=C\:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_345eff879cd8cabc9f75ef5038651b34825a352f\\classes.dex

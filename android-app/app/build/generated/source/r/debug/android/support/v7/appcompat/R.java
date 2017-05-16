@@ -556,7 +556,7 @@ public final class R {
         public static final int action_mode_bar_stub = 0x7f0b004e;
         public static final int action_mode_close_button = 0x7f0b0031;
         public static final int action_text = 0x7f0b0066;
-        public static final int actions = 0x7f0b0074;
+        public static final int actions = 0x7f0b0073;
         public static final int activity_chooser_view_content = 0x7f0b0032;
         public static final int add = 0x7f0b0013;
         public static final int alertTitle = 0x7f0b0046;
@@ -582,7 +582,7 @@ public final class R {
         public static final int home = 0x7f0b0004;
         public static final int homeAsUp = 0x7f0b000d;
         public static final int icon = 0x7f0b0037;
-        public static final int icon_group = 0x7f0b0075;
+        public static final int icon_group = 0x7f0b0074;
         public static final int ifRoom = 0x7f0b0024;
         public static final int image = 0x7f0b0034;
         public static final int info = 0x7f0b0071;
@@ -596,14 +596,14 @@ public final class R {
         public static final int never = 0x7f0b0025;
         public static final int none = 0x7f0b000e;
         public static final int normal = 0x7f0b000a;
-        public static final int notification_background = 0x7f0b0073;
+        public static final int notification_background = 0x7f0b0072;
         public static final int notification_main_column = 0x7f0b006d;
         public static final int notification_main_column_container = 0x7f0b006c;
         public static final int parentPanel = 0x7f0b003b;
         public static final int progress_circular = 0x7f0b0005;
         public static final int progress_horizontal = 0x7f0b0006;
         public static final int radio = 0x7f0b004b;
-        public static final int right_icon = 0x7f0b0072;
+        public static final int right_icon = 0x7f0b0075;
         public static final int right_side = 0x7f0b006e;
         public static final int screen = 0x7f0b0015;
         public static final int scrollIndicatorDown = 0x7f0b0041;

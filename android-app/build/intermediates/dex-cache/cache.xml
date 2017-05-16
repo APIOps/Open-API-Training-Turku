@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9bc046401566435ca5b99990d2d36e572826e4ee">
+        <dex dex="/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_706144e278468867d1538ebd90d2155ef3dd0554/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_72b0dcebd9b4f52dca06002ae9537ec1c912ef61\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="575bf6daaf15134e4073cbbcba103c56fd7a77c1">
-        <dex dex="C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_345eff879cd8cabc9f75ef5038651b34825a352f\classes.dex" />
+        <dex dex="/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_51042d6528c1642c3b8d727ec2b6f451b936c181/classes.dex" />
     </item>
 
 </items>

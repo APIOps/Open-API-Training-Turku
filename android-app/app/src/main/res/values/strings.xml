@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">test</string>
-    <string name="title_activity_maps">Turku</string>
+    <string name="app_name">TurkuStreetMaintenance</string>
+    <string name="title_activity_maps">Map</string>
 </resources>

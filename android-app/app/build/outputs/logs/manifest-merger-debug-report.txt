@@ -1,134 +1,133 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:2:1-44:12
+ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:2:1-43:12
 	package
-		ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:3:5-42
-		INJECTED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml
+		ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:3:5-79
+		INJECTED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml
+		INJECTED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml
+		INJECTED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:10:5-79
+ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:10:22-76
-uses-permission#android.permission.INTERNET
-ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:11:5-67
-MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\FrostedFin\.android\build-cache\504e079bd6867fb08a36f8ccb810f49e2b84215a\output\AndroidManifest.xml:20:5-66
-	android:name
-		ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:11:22-64
+		ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:10:22-76
 application
-ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:13:5-42:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\FrostedFin\.android\build-cache\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\FrostedFin\.android\build-cache\d0206e41dd4cfa14cfb54f2c123d875aafdb078a\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\FrostedFin\.android\build-cache\27f478e75d1217954b7fdb78efa8437d874213db\output\AndroidManifest.xml:26:5-20
-MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\FrostedFin\.android\build-cache\504e079bd6867fb08a36f8ccb810f49e2b84215a\output\AndroidManifest.xml:24:5-19
-MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\FrostedFin\.android\build-cache\5dbca295d6494b90654aebc415d18922735d1cd0\output\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\FrostedFin\.android\build-cache\2e31b7e3e3c7bd3549d5103d056bb47b9fe51c68\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\FrostedFin\.android\build-cache\143ae2b38424f67b530c3565360370bae4a19dbc\output\AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\FrostedFin\.android\build-cache\a216f86302c4ae85cbaae7cc56ad245bd7e0f706\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\FrostedFin\.android\build-cache\231f516ae9170745c3c24c519738bfe134034958\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\FrostedFin\.android\build-cache\17a781c779e7b675c0465eb4da573864b28fa4fc\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\FrostedFin\.android\build-cache\43d8935b7a391de2a043e7029b9207a730b6732b\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\FrostedFin\.android\build-cache\5a7b160484a6881ab3ba443d490082a3297830d8\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\FrostedFin\.android\build-cache\bf682fb101cc2184593bda35b15e211cc63d5c6a\output\AndroidManifest.xml:29:5-20
+ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:12:5-41:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/vesa/.android/build-cache/aff22e7c8db39ea4ba64a6f0cfbe424b7034c989/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/vesa/.android/build-cache/05074b6ce2e68a0061169922841183ad7fc50475/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/vesa/.android/build-cache/2c95f4fbee8d4c6be6e58886a9ec557df126dfbb/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/vesa/.android/build-cache/8f88b43163399495e25138415e6a4aeb8b930ffa/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/vesa/.android/build-cache/bb3ceb1cde0ca4ea5dc2a4541c38480d36f0ea92/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/vesa/.android/build-cache/4911b443b73201af70e33a098af048b042228605/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /home/vesa/.android/build-cache/bfc25578c4327b4455b8d58b3eb515c1edbc2aab/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/vesa/.android/build-cache/1e00feedfba2292bf668f3a75cb5441541371a27/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/vesa/.android/build-cache/626a0db67437ddc68ef432571d108edf66cbf6cc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/vesa/.android/build-cache/4d3b9c44d7203002c8c03b45d8a5dfc22bd79de4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/vesa/.android/build-cache/755ecd0b305e170467b3a08e8e296dc24b30ebb6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/vesa/.android/build-cache/e76b60ecd99c90103fa9db09b207226d07078b41/output/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:16:9-41
+		ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:15:9-41
 	android:supportsRtl
-		ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:18:9-35
+		ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:17:9-35
 	android:roundIcon
-		ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:17:9-54
+		ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:16:9-54
 	android:allowBackup
-		ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:14:9-35
+		ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:13:9-35
 	android:icon
-		ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:15:9-43
+		ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:14:9-43
 	android:theme
-		ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:19:9-40
+		ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:18:9-40
 meta-data#com.google.android.geo.API_KEY
-ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:29:9-31:55
+ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:28:9-30:55
 	android:value
-		ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:31:13-52
+		ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:30:13-52
 	android:name
-		ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:30:13-58
-activity#com.example.frostedfin.test.MapsActivity
-ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:33:9-41:20
+		ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:29:13-58
+activity#com.github.apiops.open_api_training_turku.turkustreetmaintenance.MapsActivity
+ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:32:9-40:20
 	android:label
-		ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:35:13-56
+		ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:34:13-56
 	android:name
-		ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:34:13-41
+		ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:33:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:36:13-40:29
+ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:35:13-39:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:37:17-69
+ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:36:17-69
 	android:name
-		ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:37:25-66
+		ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:36:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:39:17-77
+ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:38:17-77
 	android:name
-		ADDED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml:39:27-74
+		ADDED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml:38:27-74
 uses-sdk
-INJECTED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\FrostedFin\.android\build-cache\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\FrostedFin\.android\build-cache\d0206e41dd4cfa14cfb54f2c123d875aafdb078a\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\FrostedFin\.android\build-cache\27f478e75d1217954b7fdb78efa8437d874213db\output\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\FrostedFin\.android\build-cache\504e079bd6867fb08a36f8ccb810f49e2b84215a\output\AndroidManifest.xml:23:5-43
-MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\FrostedFin\.android\build-cache\5dbca295d6494b90654aebc415d18922735d1cd0\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\FrostedFin\.android\build-cache\2e31b7e3e3c7bd3549d5103d056bb47b9fe51c68\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\FrostedFin\.android\build-cache\143ae2b38424f67b530c3565360370bae4a19dbc\output\AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\FrostedFin\.android\build-cache\a216f86302c4ae85cbaae7cc56ad245bd7e0f706\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\FrostedFin\.android\build-cache\231f516ae9170745c3c24c519738bfe134034958\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\FrostedFin\.android\build-cache\17a781c779e7b675c0465eb4da573864b28fa4fc\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\FrostedFin\.android\build-cache\43d8935b7a391de2a043e7029b9207a730b6732b\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\FrostedFin\.android\build-cache\5a7b160484a6881ab3ba443d490082a3297830d8\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\FrostedFin\.android\build-cache\bf682fb101cc2184593bda35b15e211cc63d5c6a\output\AndroidManifest.xml:21:5-23:58
+INJECTED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/vesa/.android/build-cache/aff22e7c8db39ea4ba64a6f0cfbe424b7034c989/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/vesa/.android/build-cache/05074b6ce2e68a0061169922841183ad7fc50475/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/vesa/.android/build-cache/2c95f4fbee8d4c6be6e58886a9ec557df126dfbb/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/vesa/.android/build-cache/8f88b43163399495e25138415e6a4aeb8b930ffa/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/vesa/.android/build-cache/bb3ceb1cde0ca4ea5dc2a4541c38480d36f0ea92/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/vesa/.android/build-cache/4911b443b73201af70e33a098af048b042228605/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /home/vesa/.android/build-cache/bfc25578c4327b4455b8d58b3eb515c1edbc2aab/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/vesa/.android/build-cache/1e00feedfba2292bf668f3a75cb5441541371a27/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/vesa/.android/build-cache/626a0db67437ddc68ef432571d108edf66cbf6cc/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/vesa/.android/build-cache/4d3b9c44d7203002c8c03b45d8a5dfc22bd79de4/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/vesa/.android/build-cache/755ecd0b305e170467b3a08e8e296dc24b30ebb6/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/vesa/.android/build-cache/e76b60ecd99c90103fa9db09b207226d07078b41/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\FrostedFin\.android\build-cache\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml
+		INJECTED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\src\main\AndroidManifest.xml
+		INJECTED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\FrostedFin\.android\build-cache\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\FrostedFin\.android\build-cache\d0206e41dd4cfa14cfb54f2c123d875aafdb078a\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\FrostedFin\.android\build-cache\27f478e75d1217954b7fdb78efa8437d874213db\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\FrostedFin\.android\build-cache\a216f86302c4ae85cbaae7cc56ad245bd7e0f706\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\FrostedFin\.android\build-cache\231f516ae9170745c3c24c519738bfe134034958\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\FrostedFin\.android\build-cache\17a781c779e7b675c0465eb4da573864b28fa4fc\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\FrostedFin\.android\build-cache\43d8935b7a391de2a043e7029b9207a730b6732b\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\FrostedFin\.android\build-cache\5a7b160484a6881ab3ba443d490082a3297830d8\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\FrostedFin\.android\build-cache\bf682fb101cc2184593bda35b15e211cc63d5c6a\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/vesa/.android/build-cache/aff22e7c8db39ea4ba64a6f0cfbe424b7034c989/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/vesa/.android/build-cache/05074b6ce2e68a0061169922841183ad7fc50475/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/vesa/.android/build-cache/bfc25578c4327b4455b8d58b3eb515c1edbc2aab/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/vesa/.android/build-cache/1e00feedfba2292bf668f3a75cb5441541371a27/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/vesa/.android/build-cache/626a0db67437ddc68ef432571d108edf66cbf6cc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/vesa/.android/build-cache/4d3b9c44d7203002c8c03b45d8a5dfc22bd79de4/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/vesa/.android/build-cache/755ecd0b305e170467b3a08e8e296dc24b30ebb6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/vesa/.android/build-cache/e76b60ecd99c90103fa9db09b207226d07078b41/output/AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\FrostedFin\.android\build-cache\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\FrostedFin\.android\build-cache\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/AndroidManifest.xml:26:9-47
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\FrostedFin\.android\build-cache\504e079bd6867fb08a36f8ccb810f49e2b84215a\output\AndroidManifest.xml:19:5-78
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/vesa/.android/build-cache/2c95f4fbee8d4c6be6e58886a9ec557df126dfbb/output/AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\FrostedFin\.android\build-cache\504e079bd6867fb08a36f8ccb810f49e2b84215a\output\AndroidManifest.xml:19:22-76
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/vesa/.android/build-cache/2c95f4fbee8d4c6be6e58886a9ec557df126dfbb/output/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/vesa/.android/build-cache/2c95f4fbee8d4c6be6e58886a9ec557df126dfbb/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/vesa/.android/build-cache/2c95f4fbee8d4c6be6e58886a9ec557df126dfbb/output/AndroidManifest.xml:20:22-64
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\FrostedFin\.android\build-cache\504e079bd6867fb08a36f8ccb810f49e2b84215a\output\AndroidManifest.xml:21:5-77
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/vesa/.android/build-cache/2c95f4fbee8d4c6be6e58886a9ec557df126dfbb/output/AndroidManifest.xml:21:5-77
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\FrostedFin\.android\build-cache\504e079bd6867fb08a36f8ccb810f49e2b84215a\output\AndroidManifest.xml:21:19-51
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/vesa/.android/build-cache/2c95f4fbee8d4c6be6e58886a9ec557df126dfbb/output/AndroidManifest.xml:21:19-51
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\FrostedFin\.android\build-cache\504e079bd6867fb08a36f8ccb810f49e2b84215a\output\AndroidManifest.xml:21:52-75
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/vesa/.android/build-cache/2c95f4fbee8d4c6be6e58886a9ec557df126dfbb/output/AndroidManifest.xml:21:52-75
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\FrostedFin\.android\build-cache\5dbca295d6494b90654aebc415d18922735d1cd0\output\AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/vesa/.android/build-cache/8f88b43163399495e25138415e6a4aeb8b930ffa/output/AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\FrostedFin\.android\build-cache\5dbca295d6494b90654aebc415d18922735d1cd0\output\AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/vesa/.android/build-cache/8f88b43163399495e25138415e6a4aeb8b930ffa/output/AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\FrostedFin\.android\build-cache\5dbca295d6494b90654aebc415d18922735d1cd0\output\AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/vesa/.android/build-cache/8f88b43163399495e25138415e6a4aeb8b930ffa/output/AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\FrostedFin\.android\build-cache\5dbca295d6494b90654aebc415d18922735d1cd0\output\AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/vesa/.android/build-cache/8f88b43163399495e25138415e6a4aeb8b930ffa/output/AndroidManifest.xml:19:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\FrostedFin\.android\build-cache\143ae2b38424f67b530c3565360370bae4a19dbc\output\AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:10.2.4] /home/vesa/.android/build-cache/4911b443b73201af70e33a098af048b042228605/output/AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\FrostedFin\.android\build-cache\143ae2b38424f67b530c3565360370bae4a19dbc\output\AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] /home/vesa/.android/build-cache/4911b443b73201af70e33a098af048b042228605/output/AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\FrostedFin\.android\build-cache\143ae2b38424f67b530c3565360370bae4a19dbc\output\AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] /home/vesa/.android/build-cache/4911b443b73201af70e33a098af048b042228605/output/AndroidManifest.xml:20:20-65

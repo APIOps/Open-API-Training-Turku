@@ -1,94 +1,94 @@
 [
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\color\\abc_tint_btn_checkable.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\color\\abc_search_url_text.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\color\\abc_tint_seek_thumb.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color/switch_thumb_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\color\\switch_thumb_material_dark.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color/abc_tint_default.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/vesa/.android/build-cache/8f88b43163399495e25138415e6a4aeb8b930ffa/output/res/color/common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color/abc_primary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\color\\abc_tint_default.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color/abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\color\\abc_tint_switch_thumb.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color/abc_search_url_text.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\color\\abc_tint_spinner.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/vesa/.android/build-cache/8f88b43163399495e25138415e6a4aeb8b930ffa/output/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\color\\abc_tint_switch_track.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\color\\abc_tint_edittext.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color/abc_tint_edittext.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color/abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\5dbca295d6494b90654aebc415d18922735d1cd0\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\color\\abc_secondary_text_material_light.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color/switch_thumb_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\5dbca295d6494b90654aebc415d18922735d1cd0\\output\\res\\color\\common_google_signin_btn_tint.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color/abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color/abc_tint_spinner.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\color\\abc_btn_colored_text_material.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color/abc_tint_switch_track.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/home/vesa/.android/build-cache/8f88b43163399495e25138415e6a4aeb8b930ffa/output/res/color/common_google_signin_btn_tint.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\5dbca295d6494b90654aebc415d18922735d1cd0\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color/abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color/abc_btn_colored_text_material.xml"
     }
 ]

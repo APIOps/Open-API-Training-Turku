@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+        "outputFile": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 207
                 },
                 "from": {
-                    "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values-v24\\values-v24.xml",
+                    "file": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/values-v24/values-v24.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 342
                 },
                 "from": {
-                    "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values-v24\\values-v24.xml",
+                    "file": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/values-v24/values-v24.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 411
                 },
                 "from": {
-                    "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values-v24\\values-v24.xml",
+                    "file": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/values-v24/values-v24.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 475
                 },
                 "from": {
-                    "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values-v24\\values-v24.xml",
+                    "file": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/values-v24/values-v24.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 544
                 },
                 "from": {
-                    "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values-v24\\values-v24.xml",
+                    "file": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/values-v24/values-v24.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 614
                 },
                 "from": {
-                    "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\7fb85eb6b64c4ead8f79f9eb4dd5c5a50b2b7d7e\\output\\res\\values-v24\\values-v24.xml",
+                    "file": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/values-v24/values-v24.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,

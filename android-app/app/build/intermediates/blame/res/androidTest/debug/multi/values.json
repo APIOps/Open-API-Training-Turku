@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Users\\FrostedFin\\.android\\build-cache\\8b8e8172d79c139a1eb87aad3b7fbf90690ecf54\\output\\res\\values\\values.xml",
+                    "file": "/home/vesa/.android/build-cache/1a5315cc2e1a619e80935078da73c830f15c6797/output/res/values/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

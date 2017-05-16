@@ -32,7 +32,7 @@ import java.net.URL;
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
 
     private GoogleMap mMap;
-    public final URL mTurkuApiUrl = new URL("https://apinf.io:3002/turku_street_maintenance_v1/vehicles/?limit=10&since=2017&api_key=Turku_apikey");
+    public final URL mTurkuApiUrl = new URL("https://apinf.io:3002/turku_street_maintenance_v1/vehicles/?limit=10&since=2017&api_key=ijHGHoi3nP3wWFnsX8cy3FdZQ4HqXyOCKjWt9UvX ");
 
     public MapsActivity() throws MalformedURLException {
     }

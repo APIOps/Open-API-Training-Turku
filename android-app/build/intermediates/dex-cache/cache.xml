@@ -2,22 +2,40 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\FrostedFin\.android\build-cache\504e079bd6867fb08a36f8ccb810f49e2b84215a\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_72b0dcebd9b4f52dca06002ae9537ec1c912ef61\classes.dex" />
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\build\intermediates\pre-dexed\debug\classes_ae7ef456c708fbf4f9e1c29b311f9a5545226ddc.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\FrostedFin\.android\build-cache\5dbca295d6494b90654aebc415d18922735d1cd0\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="575bf6daaf15134e4073cbbcba103c56fd7a77c1">
-        <dex dex="C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_345eff879cd8cabc9f75ef5038651b34825a352f\classes.dex" />
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\build\intermediates\pre-dexed\debug\classes_55171df1698880eb1c95025f56336636222764eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FrostedFin\.android\build-cache\143ae2b38424f67b530c3565360370bae4a19dbc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\build\intermediates\pre-dexed\debug\classes_da8bd24c8aa7ea7e2074f5e2066144e0e84fc7e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\FrostedFin\.android\build-cache\2e31b7e3e3c7bd3549d5103d056bb47b9fe51c68\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="C:\Users\FrostedFin\Documents\GitHub\Open-API-Training-Turku\Open-API-Training-Turku\android-app\app\build\intermediates\pre-dexed\debug\classes_d11fd85bf568c8a3cd1457109de1631225497dbf.jar" />
     </item>
 
 </items>

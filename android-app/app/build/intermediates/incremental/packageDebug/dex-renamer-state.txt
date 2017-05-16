@@ -1,7 +1,4 @@
-#Tue May 16 08:52:17 EEST 2017
-base.0=C\:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_345eff879cd8cabc9f75ef5038651b34825a352f
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_72b0dcebd9b4f52dca06002ae9537ec1c912ef61\\classes.dex
-base.1=C\:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_72b0dcebd9b4f52dca06002ae9537ec1c912ef61
-file.0=C\:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_345eff879cd8cabc9f75ef5038651b34825a352f\\classes.dex
+#Tue May 16 09:05:37 EEST 2017
+base.0=C\:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\FrostedFin\\Documents\\GitHub\\Open-API-Training-Turku\\Open-API-Training-Turku\\android-app\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

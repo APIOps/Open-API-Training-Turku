@@ -4,7 +4,15 @@
         "source": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku/android-app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku/android-app/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku/android-app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku/android-app/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }
 ]

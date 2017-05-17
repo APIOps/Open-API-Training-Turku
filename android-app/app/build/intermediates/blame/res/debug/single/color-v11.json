@@ -1,6 +1,14 @@
 [
     {
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku/android-app/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku/android-app/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
         "source": "/home/vesa/.android/build-cache/bc78f625a81c1d8bca4ab08eff21a28d9509fa4e/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {

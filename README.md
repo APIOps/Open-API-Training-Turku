@@ -18,7 +18,8 @@ Material contains one/two/three simple Javascript based web application examples
 ## Andoid app
 Code and APK for for the Android app example is in own folders in this repository. 
 
-* [APK package(app)](https://github.com/APIOps/Open-API-Training-Turku/tree/master/android-app/app/build/outputs/apk)
+* [Source folder](https://github.com/APIOps/Open-API-Training-Turku/tree/master/android-app)
+* [APK package(app)](https://github.com/APIOps/Open-API-Training-Turku/blob/master/TurkuApi.apk)
 
 Web app examples are in openly shared and editable jsfiddle service (links provided). 
 

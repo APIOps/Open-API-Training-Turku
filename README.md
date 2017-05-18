@@ -1,6 +1,8 @@
 # Open API Training Turku 29.5.2017
 
-This repository contains materials used in API training Camp organized in Turku. Content and event was constructed by APInf Oy staff Jarkko Moilanen and Vesa Härkönen. All code is MIT licensed. 
+This repository contains materials used in API training Camp organized in Turku. Content and event was constructed by APInf Oy staff Jarkko Moilanen and Vesa Härkönen. All code is [MIT licensed](https://github.com/APIOps/Open-API-Training-Turku/blob/master/LICENSE.txt). 
+
+Any code or application in this repository is not for end user purposes. Do not rely on the apps or the information provided in those. 
 
 Aim of the event: to show and tell developers (and companies) by examples how open APIs provided by the city of Turku work and how APIs can be utilized. 
 

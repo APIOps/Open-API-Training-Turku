@@ -14,7 +14,11 @@ APIs introduced in the training are:
 
 Material contains one/two/three simple Javascript based web application examples and one Android app example. Both application examples (stubs) utilize at least one of the mentioned APIs.  
 
-Code for the Android app example are in own folders in this repository. 
+
+## Andoid app
+Code and APK for for the Android app example is in own folders in this repository. 
+
+* [APK package(app)](https://github.com/APIOps/Open-API-Training-Turku/tree/master/android-app/app/build/outputs/apk)
 
 Web app examples are in openly shared and editable jsfiddle service (links provided). 
 

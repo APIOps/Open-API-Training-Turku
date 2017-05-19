@@ -3,8 +3,11 @@ package com.github.apiops.open_api_training_turku.turkustreetmaintenance;
 import android.os.AsyncTask;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
+import android.text.Html;
+import android.text.method.LinkMovementMethod;
 import android.view.View;
 import android.widget.Button;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.android.gms.maps.CameraUpdateFactory;
@@ -30,7 +33,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
     private GoogleMap mMap;
     public final URL mTurkuApiUrl =
-            new URL("https://apinf.io:3002/turku_street_maintenance_v1/vehicles/?limit=10&since=2017&api_key=getyourkeufromapinf.io");
+            new URL("https://apinf.io:3002/turku_street_maintenance_v1/vehicles/?limit=10&since=2017&api_key=TURKU_API_KEY");
 
     public MapsActivity() throws MalformedURLException {
     }
@@ -43,6 +46,12 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
+
+        TextView link = (TextView) findViewById(R.id.textView);
+        String linkText = "Visit the <a href='http://apinf.com'>apinf</a> web page.";
+        link.setText(Html.fromHtml(linkText));
+        link.setMovementMethod(LinkMovementMethod.getInstance());
+
 
 
 
@@ -58,12 +67,12 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     public void addMarksFromJson(String jsonStr) {
 
         Toast.makeText(getApplicationContext(),"JSON: " + jsonStr,
-                Toast.LENGTH_SHORT).show();
+                Toast.LENGTH_LONG).show();
 
         if (jsonStr.length() == 0 ) {
             Toast.makeText(getApplicationContext(),
                     "JSON was empty. Most likely API key was missing. Get yours from apinf.io." + jsonStr,
-                    Toast.LENGTH_SHORT).show();
+                    Toast.LENGTH_LONG).show();
             return;
         }
 
@@ -115,7 +124,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     public void onMapReady(GoogleMap googleMap) {
         mMap = googleMap;
 
-        final int DEFAULT_ZOOM = 11;
+        final int DEFAULT_ZOOM = 10;
         LatLng turku = new LatLng(60.454510, 22.264824);
         mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(turku, DEFAULT_ZOOM));
 
@@ -127,6 +136,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 //mMap.addMarker(new MarkerOptions().position(Tampere).title("Marker in Tampere"));
                 //mMap.moveCamera(CameraUpdateFactory.newLatLng(Tampere));
 
+                mMap.clear();
 
                 try {
                     CallTask taski = new CallTask();

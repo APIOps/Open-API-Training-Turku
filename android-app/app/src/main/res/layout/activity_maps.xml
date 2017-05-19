@@ -1,10 +1,19 @@
-<LinearLayout xmlns:map="http://schemas.android.com/apk/res-auto"
+<FrameLayout xmlns:map="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:weightSum="10"
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent">
+
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:map="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/map"
+        tools:context="com.github.apiops.open_api_training_turku.turkustreetmaintenance.MapsActivity"
+        android:name="com.google.android.gms.maps.SupportMapFragment"/>
+
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -16,7 +25,7 @@
             android:layout_width="190dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Add mark" />
+            android:text="Refresh" />
 
         <Button
             android:id="@+id/button3"
@@ -25,14 +34,27 @@
             android:text="Clear" />
     </LinearLayout>
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        android:layout_gravity="bottom">
 
-    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    xmlns:map="http://schemas.android.com/apk/res-auto"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:id="@+id/map"
-    tools:context="com.github.apiops.open_api_training_turku.turkustreetmaintenance.MapsActivity"
-    android:name="com.google.android.gms.maps.SupportMapFragment"/>
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="testiiiiii"
+            android:background="@android:color/white"/>
 
-</LinearLayout>
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/apinf" />
+
+
+    </LinearLayout>
+
+
+</FrameLayout>

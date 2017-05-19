@@ -1,7 +1,0 @@
-#Tue May 16 09:56:07 EEST 2017
-base.0=/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_706144e278468867d1538ebd90d2155ef3dd0554
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_51042d6528c1642c3b8d727ec2b6f451b936c181/classes.dex
-base.1=/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_51042d6528c1642c3b8d727ec2b6f451b936c181
-file.0=/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_706144e278468867d1538ebd90d2155ef3dd0554/classes.dex

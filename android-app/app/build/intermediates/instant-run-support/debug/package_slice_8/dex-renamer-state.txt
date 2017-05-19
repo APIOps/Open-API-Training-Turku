@@ -1,4 +1,0 @@
-#Tue May 16 09:48:46 EEST 2017
-base.0=/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
-renamed.0=classes.dex
-file.0=/home/vesa/Documents/TurkuApitus/Open-API-Training-Turku-master/TurkuStreetMaintenance/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex

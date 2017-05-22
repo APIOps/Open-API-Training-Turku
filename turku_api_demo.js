@@ -4,8 +4,11 @@ var key = ""
 $(document).ready(function() {
   $.getJSON(sourceURL + "?api_key=" + key, function(items) {
     // let lista = JSON.stringify(items);
-    let lista = items;
+    let lista;
     $('#content').append("Found <br>");
+    $.each($.parseJSON(items), function(key, value){
+      lista = lista + key + "=" + value + "<br>"  
+    });
     $('#content').append(lista);
 
 

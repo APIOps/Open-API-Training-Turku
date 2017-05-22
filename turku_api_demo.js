@@ -1,9 +1,9 @@
-var sourceURL = "https://apinf.io:3002/turku_feedback_v1/services.json"
+var sourceURL = "https://api.turku.fi/feedback/v1/requests.json"
 var key = ""
 
 $(document).ready(function() {
   $.getJSON(sourceURL + "?api_key=" + key, function(items) {
-    $('#content').append("<h2>Found again " + items.length + " items</h2>");
+    $('#content').append("<h2>Found again " + JSON.stringify(items) + " items</h2>");
+  
   });
-  turku_map();
 });

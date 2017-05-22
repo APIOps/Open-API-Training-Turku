@@ -25,7 +25,7 @@
 
     </div>
   </div>
-  
+
   <div class='row'>
     <div id="content">
 
@@ -44,11 +44,10 @@
         map: map
       });
     }
-    function initMap() {
-      var turku = {lat: 60.4518126, lng: 22.266630299999974};
+    function drawMap(lati, longi) {
+      var turku = {lat: lati, lng: longi};
       var map = new google.maps.Map(document.getElementById('map'), {
-        zoom: 4,
-        center: turku
+        zoom: 4
       });
       var marker = new google.maps.Marker({
         position: turku,

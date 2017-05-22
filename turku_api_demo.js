@@ -5,11 +5,13 @@ $(document).ready(function() {
   $.getJSON(sourceURL + "?api_key=" + key, function(items) {
     // let lista = JSON.stringify(items);
     let lista;
+    let kpl = 0;
     $('#content').append("Found <br>");
     $.each($.parseJSON(items), function(key, value){
-      lista = lista + key + "=" + value + "<br>"  
+      lista = lista + key + "=" + value + "<br>"
+      kpl++;
     });
-    $('#content').append(lista);
+    $('#content').append(kpl);
 
 
   });

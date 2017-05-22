@@ -8,7 +8,7 @@ $(document).ready(function() {
     let kpl = 0;
     $('#content').append("Found <br>");
     $.each($.parseJSON(items), function(key, value){
-      lista = lista + key + "=" + value + "<br>"
+      lista = lista + key + "=" + value + "<br>";
       kpl++;
     });
     $('#content').append(kpl);

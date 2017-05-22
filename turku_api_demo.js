@@ -3,7 +3,10 @@ var key = ""
 
 $(document).ready(function() {
   $.getJSON(sourceURL + "?api_key=" + key, function(items) {
-    $('#content').append("Found again <br>" + JSON.stringify(items) + " items");
+    let lista = JSON.stringify(items);
+    $('#content').append("Found <br>");
+    $('#content').append(lista);
+    
 
   });
 });

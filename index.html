@@ -40,11 +40,14 @@
         position: turku,
         map: map
       });
+	  
     }
-    function addMarker(location, map) {
+    function addMarker(location, map, title) {
       var marker = new google.maps.Marker({
         position: location,
-        map: map
+        map: map,
+		title: title
+		
       });
     }
   </script>

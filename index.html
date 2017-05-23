@@ -18,25 +18,22 @@
 </head>
 
 <body>
-  <h2>Open API Turku web app example will be here just after a moment</h2>
+  <div class='container'>
+    <h2>Open API Turku web app example</h2>
 
-  <div class='row'>
-    <div id="map">
-
+    <div class='row'>
+      <div class='col' id="map">
+      </div>
+      <div class='col' id="content">
+      </div>
     </div>
   </div>
-
-  <div class='row'>
-    <div id="content">
-
-    </div>
-  </div>
-  <!-- <script src="turku_api_demo.js"></script> -->
-  <!-- <script>
+  <script src="turku_api_demo.js"></script>
+  <script>
     function initMap() {
       var turku = {lat: 60.4518126, lng: 22.266630299999974};
       var map = new google.maps.Map(document.getElementById('map'), {
-        zoom: 4,
+        zoom: 12,
         center: turku
       });
       var marker = new google.maps.Marker({
@@ -44,19 +41,16 @@
         map: map
       });
     }
-    function drawMap(lati, longi) {
-      var turku = {lat: lati, lng: longi};
-      var map = new google.maps.Map(document.getElementById('map'), {
-        zoom: 4
-      });
+    function addMarker(location, map) {
       var marker = new google.maps.Marker({
-        position: turku,
+        position: location,
         map: map
       });
     }
-  </script> -->
+  </script>
 
   <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBb-8HLMYtIHuU6rIFTkPONreMOCIjv7GI&callback=initMap"
   type="text/javascript"></script>
+
 </body>
 </html>

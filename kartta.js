@@ -9,7 +9,7 @@ function turku_map() {
     //console.log('initializessa ' );
     var mapProp = {
                    center:      myCenter,
-                   zoom:        12,
+                   zoom:        4,
                    scrollwheel: true,
                    draggable:   false,
                    mapTypeId:   google.maps.MapTypeId.ROADMAP

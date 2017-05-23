@@ -1,4 +1,4 @@
-var sourceURL = "https://api.turku.fi/feedback/v1/requests.json?start_date=2017-05-01T00:00:00Z&end_date=2017-05-1T00:00:00Z"
+var sourceURL = "https://api.turku.fi/feedback/v1/requests.json?start_date=01.04.2017&end_date=03.04.2017"
 var key = ""
 
 $(document).ready(function() {

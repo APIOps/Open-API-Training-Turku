@@ -1,6 +1,8 @@
-var sourceURL = "https://api.turku.fi/feedback/v1/requests.json?start_date=2017-05-15T00:00:00Z&end_date=2017-05-21T00:00:00Z"
+var sourceURL = "https://api.turku.fi/feedback/v1/requests.json"
 var key = ""
-//var  d = new Date();
+var  d = new Date();
+var aika = d.getFullYear() + '-' +0+(d.getMonth() + 1) + '-' + d.getDate();
+var alku = d.getFullYear() + '-' +0+(d.getMonth() + 1) + '-' + (d.getDate() - 7);
 //var kk = d.getMonth();
 //var dd = d.getDate();
 
@@ -8,8 +10,8 @@ var key = ""
 
 //?start_date=2017-05-15T00:00:00Z&end_date=2017-05-21T00:00:00Z
 $(document).ready(function() {
-  $.getJSON(sourceURL + "?api_key=" + key, function(items) {
-	//$.getJSON(sourceURL + "?start_date=" + d + "&end_date=" + d-7, function(items) {
+  //$.getJSON(sourceURL + "?api_key=" + key, function(items) {
+	$.getJSON(sourceURL + "?start_date=" + alku + "T00:00:00Z&end_date=" + aika + "T23:55:00Z" , function(items) {
     let lista = JSON.stringify(items);
     let luettelo;
 
@@ -28,7 +30,7 @@ $(document).ready(function() {
         addMarker(turku, map);
       }
     });
-    $('#content').append(lista + " loppu ");
+    $('#content').append(lista + " alku " + alku +" loppu "+ aika);
     // let lista;
     // let kpl = 0;
     // $('#content').append("Found <br>");

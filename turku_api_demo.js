@@ -1,9 +1,11 @@
 var sourceURL = "https://api.turku.fi/feedback/v1/requests.json?start_date=2017-05-15T00:00:00Z&end_date=2017-05-21T00:00:00Z"
 var key = ""
+var  d = new Date();
 
+//?start_date=2017-05-15T00:00:00Z&end_date=2017-05-21T00:00:00Z
 $(document).ready(function() {
   $.getJSON(sourceURL + "?api_key=" + key, function(items) {
-
+	//$.getJSON(sourceURL + "?start_date=" + d + "&end_date=" + d-7, function(items) {
     let lista = JSON.stringify(items);
     let luettelo;
 
@@ -22,7 +24,7 @@ $(document).ready(function() {
         addMarker(turku, map);
       }
     });
-    $('#content').append(lista);
+    $('#content').append(lista + "loppu" + d);
     // let lista;
     // let kpl = 0;
     // $('#content').append("Found <br>");

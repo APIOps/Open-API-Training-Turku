@@ -1,4 +1,4 @@
-var sourceURL = "https://api.turku.fi/feedback/v1/requests.json?start_date=2017-05-01T00:00:00Z&end_date=2017-05-1T00:00:00Z"
+var sourceURL = "https://api.turku.fi/feedback/v1/requests.json?start_date=2017-05-15T00:00:00Z&end_date=2017-05-21T00:00:00Z"
 var key = ""
 
 $(document).ready(function() {
@@ -14,7 +14,7 @@ $(document).ready(function() {
     });
 
     items.forEach(function(tieto) {
-      $('#content').append(tieto.service_name+' '+tieto.address+' lat='+tieto.lat+' lon='+tieto.long+'<br>');
+      $('#content').append(tieto.service_name+' osoite: '+tieto.address+' lat='+tieto.lat+' lon='+tieto.long+'<br>');
       // drawMap(tieto.lat, tieto.long);
       // luettelo = luettelo + tieto +"<br>";
       if (tieto.lat && tieto.long) {

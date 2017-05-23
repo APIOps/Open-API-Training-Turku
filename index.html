@@ -33,7 +33,7 @@
     function initMap() {
       var turku = {lat: 60.4518126, lng: 22.266630299999974};
       var map = new google.maps.Map(document.getElementById('map'), {
-        zoom: 4,
+        zoom: 12,
         center: turku
       });
       var marker = new google.maps.Marker({
@@ -41,13 +41,9 @@
         map: map
       });
     }
-    function drawMap(lati, longi) {
-      var turku = {lat: lati, lng: longi};
-      var map = new google.maps.Map(document.getElementById('map'), {
-        zoom: 4
-      });
+    function addMarker(location) {
       var marker = new google.maps.Marker({
-        position: turku,
+        position: location,
         map: map
       });
     }

@@ -1,10 +1,10 @@
 var sourceURL = "https://api.turku.fi/feedback/v1/requests.json"
 var key = ""
 var  d = new Date();
-var aika = d.getFullYear() + '-' +0+(d.getMonth() + 1) + '-' + d.getDate();
-var alku = d.getFullYear() + '-' +0+(d.getMonth() + 1) + '-' + (d.getDate() - 7);
-//var kk = d.getMonth();
-//var dd = d.getDate();
+var aika = d.getFullYear() + '-' +(d.getMonth() + 1) + '-' + d.getDate();
+
+var weekago = new Date(d.getTime() - (24*60*60*1000)*7);
+var alku = weekago.getFullYear() + '-' +(weekago.getMonth() + 1) + '-' + weekago.getDate();
 
 //todo: make date 3 days ago to today
 
@@ -26,11 +26,15 @@ $(document).ready(function() {
       // drawMap(tieto.lat, tieto.long);
       // luettelo = luettelo + tieto +"<br>";
       if (tieto.lat && tieto.long) {
-        var turku = {lat: tieto.lat, lng: tieto.long};
-        addMarker(turku, map);
+        var koord = {lat: tieto.lat, lng: tieto.long};
+        addMarker(koord, map);
       }
+	  else {
+		  addMarker(turku, map);
+		  
+	  }
     });
-    $('#content').append(lista + " alku " + alku +" loppu "+ aika);
+    $('#content').append(lista + " alku " + alku +" loppu "+ aika + " test ");
     // let lista;
     // let kpl = 0;
     // $('#content').append("Found <br>");

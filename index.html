@@ -42,14 +42,21 @@
       });
 	  
     }
-    function addMarker(location, map, title) {
+    function addMarkerG(location, map, title) {
       var marker = new google.maps.Marker({
         position: location,
         map: map,
-		title: title
-		
+		title: title,
+		icon: 'http://maps.google.com/mapfiles/ms/icons/green-dot.png'
       });
-    }
+	}
+	function addMarker(location, map, title) {
+      var marker = new google.maps.Marker({
+        position: location,
+        map: map,
+		title: title, 
+      });
+	}
   </script>
 
   <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBb-8HLMYtIHuU6rIFTkPONreMOCIjv7GI&callback=initMap"

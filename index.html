@@ -5,8 +5,8 @@
   <meta charset="utf-8">
   <title>Open API Turku</title>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <meta name="description" content="Turku Open *API demo">
-  <meta name="author" content="Apinf">
+  <meta name="description" IssueData="Turku Open *API demo">
+  <meta name="author" IssueData="Apinf">
   <link rel="stylesheet" type="text/css" href="turku.css">
   <script src="kartta.js"></script>
 
@@ -21,15 +21,18 @@
   <div class='container'>
     <h2>Open API Turku web app example</h2>
     <div class='row'>
-      <div style="width: 50%; float:left;" class='col' id="map">
+      <div style="width: 50%; float: left;" class='col' id="map">
       </div>
 	  <h3>Turku Street Maintenance API Data</h3>
-	  <div style="width: 50%; background-color: yellow; float:left;" class='col' id="content2">
+	  <div style="width: 50%; background-color: yellow; float: left;" class='col' id="VehicleData">
       </div>
     </div>
 	<div class='row'>
 	  <h3>Turku Issue reporting API Data</h3>
-      <div style=" background-color: teal;" class='col' id="content">
+      <div style="width: 50%; background-color: lightblue; float: left;" class='col' id="IssueData">
+      </div>
+	  <h3>Linked Events Api JSON Data</h3>
+	  <div style="width: 50%; background-color: lightgreen; float: left;" class='col' id="EventData">
       </div>
 	</div>
   </div>
@@ -48,12 +51,12 @@
       });
 	  
     }
-    function addMarkerG(location, map, title) {
+    function addMarkerY(location, map, title) {
       var marker = new google.maps.Marker({
         position: location,
         map: map,
 		title: title,
-		icon: 'http://maps.google.com/mapfiles/ms/icons/green-dot.png'
+		icon: 'http://maps.google.com/mapfiles/ms/icons/yellow-dot.png'
       });
 	}
 	function addMarker(location, map, title) {
@@ -61,7 +64,7 @@
         position: location,
         map: map,
 		title: title, 
-		icon: 'http://maps.google.com/mapfiles/ms/icons/red-dot.png'
+		icon: 'http://maps.google.com/mapfiles/ms/icons/blue-dot.png'
       });
 	}
   </script>

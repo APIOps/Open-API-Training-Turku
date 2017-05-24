@@ -31,12 +31,12 @@ $(document).ready(function() {
     });
  */    
 	streetMaintenanceData.forEach(function(streetMaintenanceItem) {
-      $('#content').append('ID: '+streetMaintenanceItem.id+' Time: '+ streetMaintenanceItem.last_location.timestamp+' ');
+      // $('#content').append('ID: '+streetMaintenanceItem.id+' Time: '+ streetMaintenanceItem.last_location.timestamp);
 	  var lat2 = streetMaintenanceItem.last_location.coords[1];
 	  var long2 = streetMaintenanceItem.last_location.coords[0];
 	  var title2 = streetMaintenanceItem.id+' '+streetMaintenanceItem.last_location.events[0];
-	  $('#content').append(' Latitude '+lat2 + ' Longitude ' + long2+' Event ' +title2+'<br>');
-	  $('#content2').append('test' + '<br>');
+	  $('#content2').append(' ID + Event ' +title2+' Latitude '+lat2 + ' Longitude ' + long2+'<br>');
+	  //$('#content2').append('test' + '<br>');
 		var koord = {lat: lat2, lng: long2};
 		addMarkerG(koord, map, title2);
 	});

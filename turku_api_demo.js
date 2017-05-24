@@ -8,37 +8,21 @@ var aika = d.getFullYear() + '-' +(d.getMonth() + 1) + '-' + d.getDate();
 var weekago = new Date(d.getTime() - (24*60*60*1000)*7);
 var alku = weekago.getFullYear() + '-' +(weekago.getMonth() + 1) + '-' + weekago.getDate();
 
-//?start_date=2017-05-15T00:00:00Z&end_date=2017-05-21T00:00:00Z
 $(document).ready(function() {
-	
-	var turkuCoords = {lat: 60.4518126, lng: 22.266630299999974};
-	var map = new google.maps.Map(document.getElementById('map'), {
-      zoom: 12,
-      center: turkuCoords
-    });
+  var turkuCoords = {lat: 60.4518126, lng: 22.266630299999974};
+  var map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 12,
+    center: turkuCoords
+  });
+  $.getJSON(streetMaintenanceApiUrl, function(streetMaintenanceData) {
     
-	//$.getJSON(turkuIssueReportingApiURL + "?start_date=" + alku + "T00:00:00Z&end_date=" + aika + "T23:55:00Z" , function(issueReportingData) {
- 	$.getJSON(streetMaintenanceApiUrl, function(streetMaintenanceData) {
-
-	let lista = JSON.stringify(streetMaintenanceData);
-
-	//todo: make both apis available at the same time
-	
-/*     var turkuCoords = {lat: 60.4518126, lng: 22.266630299999974};
-    var map = new google.maps.Map(document.getElementById('map'), {
-      zoom: 12,
-      center: turkuCoords
-    });
- */    
 	streetMaintenanceData.forEach(function(streetMaintenanceItem) {
-      // $('#content').append('ID: '+streetMaintenanceItem.id+' Time: '+ streetMaintenanceItem.last_location.timestamp);
 	  var lat2 = streetMaintenanceItem.last_location.coords[1];
 	  var long2 = streetMaintenanceItem.last_location.coords[0];
 	  var title2 = streetMaintenanceItem.id+' '+streetMaintenanceItem.last_location.events[0];
 	  $('#content2').append(' ID + Event ' +title2+' Latitude '+lat2 + ' Longitude ' + long2+'<br>');
-	  //$('#content2').append('test' + '<br>');
-		var koord = {lat: lat2, lng: long2};
-		addMarkerG(koord, map, title2);
+	  var koord = {lat: lat2, lng: long2};
+	  addMarkerG(koord, map, title2);
 	});
   });  
   $.getJSON(turkuIssueReportingApiURL + "?start_date=" + alku + "T00:00:00Z&end_date=" + aika + "T23:55:00Z" , function(issueReportingData) {

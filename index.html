@@ -24,9 +24,14 @@
     <div class='row'>
       <div class='col' id="map">
       </div>
-      <div class='col' id="content">
+	  <div class='col' id="content">
       </div>
     </div>
+	<div class='row'>
+      <div class='col' id="content2">
+      </div>
+
+	</div>
   </div>
   <script src="turku_api_demo.js"></script>
   <script>
@@ -38,7 +43,8 @@
       });
       var marker = new google.maps.Marker({
         position: turku,
-        map: map
+        map: map,
+		icon: 'http://maps.google.com/mapfiles/ms/icons/purple-dot.png'
       });
 	  
     }
@@ -55,6 +61,7 @@
         position: location,
         map: map,
 		title: title, 
+		icon: 'http://maps.google.com/mapfiles/ms/icons/red-dot.png'
       });
 	}
   </script>

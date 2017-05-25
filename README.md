@@ -23,5 +23,6 @@ Code and APK for for the Android app example is in own folders in this repositor
 * [Source folder](https://github.com/APIOps/Open-API-Training-Turku/tree/master/android-app)
 * [APK package(app)](https://github.com/APIOps/Open-API-Training-Turku/blob/master/TurkuApi.apk)
 
+## Web app example
 Web app examples are in openly shared and editable jsfiddle service (links provided). 
-
+* [Simple Javascript one page example](https://apiops.github.io/Open-API-Training-Turku/)

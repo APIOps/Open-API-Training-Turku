@@ -8,13 +8,17 @@ Below you'll find simple code snippets which shows how each of the APIs in actio
 
 API used via APInf.io platform, https://apinf.io/apis/turku-issue-reporting-api
 
-* Sample gets services list from the API and prints item count. https://jsfiddle.net/fdy31mvf/25/
-* Sample gets services list from the API and lists them in pretty print. 
+* Esimerkki palveluiden listauksesta https://jsfiddle.net/kyyberi/fdy31mvf/31/
+* Tammikuun palautteet https://jsfiddle.net/kyyberi/th1y25z3/  
+
 
 ## Turku Street Maintenance API examples via APInf.io
 
 API used via APInf.io platform, https://apinf.io/apis/turku-street-maintenance-api
 
-## Sample node.js web app
+* Listaa ajoneuvot https://jsfiddle.net/kyyberi/n0q3kemr/ 
 
-This sample node.js web app uses above snippets. 
+
+## Sample javascript web app
+
+This sample node.js web app uses above snippets. https://apiops.github.io/Open-API-Training-Turku/

@@ -23,7 +23,7 @@ The presentation used is available online at [Google Drive](https://docs.google.
 Material contains one/two/three simple Javascript based web application examples and one Android app example. Both application examples (stubs) utilize at least one of the mentioned APIs.  
 
 
-## Andoid app
+## Android app
 Code and APK for for the Android app example is in own folders in this repository. 
 
 * [Source folder](https://github.com/APIOps/Open-API-Training-Turku/tree/master/android-app)

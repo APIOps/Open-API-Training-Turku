@@ -8,9 +8,11 @@ Aim of the event: to show and tell developers (and companies) by examples how op
 
 APIs introduced in the training are: 
 
-* ....
-* ....
-* ....
+* Linked Events API
+* Maintenance API
+* Issue reporting API
+* Joukkoliikenne (http://data.foli.fi/doc/index)
+
 
 ## Presentation (in Finnish)
 

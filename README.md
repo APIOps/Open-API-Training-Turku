@@ -12,6 +12,10 @@ APIs introduced in the training are:
 * ....
 * ....
 
+## Presentation (in Finnish)
+
+The presentation used is available online at [Google Drive](https://docs.google.com/presentation/d/1xgv_uUo2-OaHMT-g6CXOKt5YNHYNTFNIhIRL6xE9orU/edit?usp=sharing)
+
 ## Code examples
 
 Material contains one/two/three simple Javascript based web application examples and one Android app example. Both application examples (stubs) utilize at least one of the mentioned APIs.  
@@ -25,4 +29,5 @@ Code and APK for for the Android app example is in own folders in this repositor
 
 ## Web app example
 Web app examples are in openly shared and editable jsfiddle service (links provided). 
+
 * [Simple Javascript one page example](https://apiops.github.io/Open-API-Training-Turku/)

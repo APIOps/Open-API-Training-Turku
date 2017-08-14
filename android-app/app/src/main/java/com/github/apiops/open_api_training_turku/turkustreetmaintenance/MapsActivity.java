@@ -33,7 +33,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
     private GoogleMap mMap;
     public final URL mTurkuApiUrl =
-            new URL("https://apinf.io:3002/turku_street_maintenance_v1/vehicles/?limit=10&since=2017&api_key=TURKU_API_KEY");
+            new URL("https://kokeilu.apinf.io:3002/turku_street_maintenance_v1/vehicles/?limit=10");
 
     public MapsActivity() throws MalformedURLException {
     }
